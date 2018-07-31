@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DAX的个人博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-07-31T09:30:39.993Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>DAX</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>office2016安装破解</title>
+    <link href="http://yoursite.com/2018/07/31/office2016%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3/"/>
+    <id>http://yoursite.com/2018/07/31/office2016安装破解/</id>
+    <published>2018-07-31T09:30:08.000Z</published>
+    <updated>2018-07-31T09:30:39.993Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;首先推荐大家一个网站&lt;a href=&quot;https://msdn.itellyou.cn/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://msdn.itellyou.cn/&lt;/a&gt;&lt;br&gt;这个网站有微软所有正版软件的镜像（只是正版软件的下载，不提供破解），与微软官网下载的东西一样，只不过分类更加简洁清晰，并且下载速度更快。&lt;br&gt;&lt;img src=&quot;/images/itellyouindex.png&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="软件破解" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6%E7%A0%B4%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/07/31/hello-world/"/>
+    <id>http://yoursite.com/2018/07/31/hello-world/</id>
+    <published>2018-07-31T08:51:23.595Z</published>
+    <updated>2018-07-31T09:21:53.175Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;本文为笔者测试专用，并无其他用处。&lt;/p&gt;
+&lt;h2 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;一级标题&quot;&gt;&lt;/a&gt;一级标题&lt;/h2&gt;&lt;h3 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
