@@ -120,6 +120,16 @@
 
 
 
+<script>
+    (function(){
+        if(''){
+            if (prompt('请输入文章密码') !== ''){
+                alert('密码错误！');
+                history.back();
+            }
+        }
+    })();
+</script>
 
   <title>DAX的个人博客</title>
   
@@ -780,12 +790,14 @@
 
       
         
-          
-            <p>本文为笔者测试专用，并无其他用处。</p>
-<h2 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h2><h3 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 文本输入测试</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://dax309.github.io/" target="_blank" rel="noopener">测试</a></p>
-
-          
+          <p>本文为笔者测试专用，并无其他用处。<br>
+          <!--noindex-->
+          <div class="post-button text-center">
+            <a class="btn" href="/hello-world.html#more" rel="contents">
+              阅读全文 &raquo;
+            </a>
+          </div>
+          <!--/noindex-->
         
       
     </div>
@@ -946,7 +958,9 @@
 </div>
 
 
+  <!--
   <div class="powered-by">由 <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a> 强力驱动</div>
+-->
 
 
 
@@ -954,7 +968,9 @@
 
 
 
+ <!--
   <div class="theme-info">主题 &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Gemini</a> v5.1.4</div>
+-->
 
 
 
