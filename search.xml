@@ -1,40 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[github教育包申请]]></title>
+    <url>%2Fgithub%E6%95%99%E8%82%B2%E5%8C%85%E7%94%B3%E8%AF%B7.html</url>
+    <content type="text"><![CDATA[GitHub教育包可以申请网站优惠券，比如我们经常用的服务器提供商DigitalOcean，而且教育包还可以免费用私有仓库（普通用户新建的私有仓库是收费的）今天给大家介绍一下怎么申请GitHub的教育包！ 1.先访问申请网址：&lt;a href=&quot;https://education.github.com/pack&quot;&gt;https://education.github.com/pack&lt;/a&gt; 点击 get your pack。然后就是登陆了，有账号登陆，没账号申请 注意如果有学校邮箱，就是后缀为edu.cn的邮箱，因为之后验证学生的时候会更快一点，省去了很多麻烦，一般高校官网都提供申请邮箱 2.登陆后登陆后就是这个样子了，这段提示大概意思是：在您获得优惠信息之前，我们需要确认您是学生。教师，研究人员，教职员工和其他教育用户可以免费获得GitHub的折扣，但不符合Pack的资格。如果您不是学生，您仍然可以申请常规GitHub以获得教育折扣。 如果你达到了申请条件，现在就可以点击“我是学生”了 这时候就会进入这个界面一般Name和Verify academic status都给你默认填好了。BUT！！！只有你这个Verify academic status填的是你们学校分发的个人邮箱的时候才能通过认证！！！当一切填完了就等待通过就行了。 3.没有教育邮箱怎么办？？？肯定有的人没有学校邮箱这种东西。这个时候你就点右边的下拉箭头，选择另一个选项（我没有学校邮箱这种东西）。然后下边就会出现这个了。你就需要在虚线框里上传你的学生卡照片之类的，反正能证明你是个学生就OK。然后就填写下边的信息。这句话大意是：请上传您的学校ID，学术成绩单或其他附属证明的图像。请确保至少有一个显示您当前学术状态的日期清晰可见。做完这些就等待接收邮件等待验证吧，大概等个一半天的，就能收到了，到此就申请到了自己的GitHub教育包了！！！]]></content>
+      <categories>
+        <category>分享</category>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Sublime常用快捷键汇总]]></title>
-    <url>%2F2018-08-01-Sublime%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%B1%87%E6%80%BB.html</url>
+    <url>%2F2018-Sublime%E5%B8%B8%E7%94%A8%E5%BF%AB%E6%8D%B7%E9%94%AE%E6%B1%87%E6%80%BB.html</url>
     <content type="text"><![CDATA[转载请注明出处：DAX的个人博客 Sublime Text：一款具有代码高亮、语法提示、自动完成且反应快速的编辑器软件，不仅具有华丽的界面，还支持插件扩展机制，用她来写代码，绝对是一种享受。相比于难于上手的Vim，浮肿沉重的Eclipse，VS，即便体积轻巧迅速启动的Editplus、Notepad++，在SublimeText面前大略显失色，无疑这款性感无比的编辑器是Coding和Writing最佳的选择，没有之一。下面就介绍一些Sublime常用快捷键汇总。 选择类Ctrl+D 选中光标所占的文本，继续操作则会选中下一个相同的文本。Alt+F3 选中文本按下快捷键，即可一次性选择全部的相同文本进行同时编辑。举个栗子：快速选中并更改所有相同的变量名、函数名等。Ctrl+L 选中整行，继续操作则继续选择下一行，效果和 Shift+↓ 效果一样。Ctrl+Shift+L 先选中多行，再按下快捷键，会在每行行尾插入光标，即可同时编辑这些行。Ctrl+Shift+M 选择括号内的内容（继续选择父括号）。举个栗子：快速选中删除函数中的代码，重写函数体代码或重写括号内里的内容。Ctrl+M 光标移动至括号内结束或开始的位置。Ctrl+Enter 在下一行插入新行。举个栗子：即使光标不在行尾，也能快速向下插入一行。Ctrl+Shift+Enter 在上一行插入新行。举个栗子：即使光标不在行首，也能快速向上插入一行。Ctrl+Shift+[ 选中代码，按下快捷键，折叠代码。Ctrl+Shift+] 选中代码，按下快捷键，展开代码。Ctrl+K+0 展开所有折叠代码。Ctrl+← 向左单位性地移动光标，快速移动光标。Ctrl+→ 向右单位性地移动光标，快速移动光标。shift+↑ 向上选中多行。shift+↓ 向下选中多行。Shift+← 向左选中文本。Shift+→ 向右选中文本。Ctrl+Shift+← 向左单位性地选中文本。Ctrl+Shift+→ 向右单位性地选中文本。Ctrl+Shift+↑ 将光标所在行和上一行代码互换（将光标所在行插入到上一行之前）。Ctrl+Shift+↓ 将光标所在行和下一行代码互换（将光标所在行插入到下一行之后）。Ctrl+Alt+↑ 向上添加多行光标，可同时编辑多行。Ctrl+Alt+↓ 向下添加多行光标，可同时编辑多行。 编辑类Ctrl+J 合并选中的多行代码为一行。举个栗子：将多行格式的CSS属性合并为一行。Ctrl+Shift+D 复制光标所在整行，插入到下一行。Tab 向右缩进。Shift+Tab 向左缩进。Ctrl+K+K 从光标处开始删除代码至行尾。Ctrl+Shift+K 删除整行。Ctrl+/ 注释单行。Ctrl+Shift+/ 注释多行。Ctrl+K+U 转换大写。Ctrl+K+L 转换小写。Ctrl+Z 撤销。Ctrl+Y 恢复撤销。Ctrl+U 软撤销，感觉和 Gtrl+Z 一样。Ctrl+F2 设置书签Ctrl+T 左右字母互换。F6 单词检测拼写 搜索类Ctrl+F 打开底部搜索框，查找关键字。Ctrl+shift+F 在文件夹内查找，与普通编辑器不同的地方是sublime允许添加多个文件夹进行查找，略高端，未研究。Ctrl+P 打开搜索框。举个栗子：1、输入当前项目中的文件名，快速搜索文件，2、输入@和关键字，查找文件中函数名，3、输入：和数字，跳转到文件中该行代码，4、输入#和关键字，查找变量名。Ctrl+G 打开搜索框，自动带：，输入数字跳转到该行代码。举个栗子：在页面代码比较长的文件中快速定位。Ctrl+R 打开搜索框，自动带@，输入关键字，查找文件中的函数名。举个栗子：在函数较多的页面快速查找某个函数。Ctrl+： 打开搜索框，自动带#，输入关键字，查找文件中的变量名、属性名等。Ctrl+Shift+P 打开命令框。场景栗子：打开命名框，输入关键字，调用sublime text或插件的功能，例如使用package安装插件。Esc 退出光标多行选择，退出搜索框，命令框等。 显示类Ctrl+Tab 按文件浏览过的顺序，切换当前窗口的标签页。Ctrl+PageDown 向左切换当前窗口的标签页。Ctrl+PageUp 向右切换当前窗口的标签页。Alt+Shift+1 窗口分屏，恢复默认1屏（非小键盘的数字）Alt+Shift+2 左右分屏-2列Alt+Shift+3 左右分屏-3列Alt+Shift+4 左右分屏-4列Alt+Shift+5 等分4屏Alt+Shift+8 垂直分屏-2屏Alt+Shift+9 垂直分屏-3屏Ctrl+K+B 开启/关闭侧边栏。F11 全屏模式Shift+F11 免打扰模式]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
       <tags>
         <tag>sublime</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[Microsoft软件收录网站]]></title>
-    <url>%2FMicrosoft%E8%BD%AF%E4%BB%B6%E6%94%B6%E5%BD%95%E7%BD%91%E7%AB%99.html</url>
+    <url>%2F2018-Microsoft%E8%BD%AF%E4%BB%B6%E6%94%B6%E5%BD%95%E7%BD%91%E7%AB%99.html</url>
     <content type="text"><![CDATA[今天向大家推荐一个超全的微软公司正版软件下载途径，访问网站MSDN网站左侧是一些分类，有常用的开发者工具，常用的办公软件，还有操作系统等等。并且他的下载连接可以迅雷直接下载，非常方便快捷。]]></content>
+      <categories>
+        <category>分享</category>
+      </categories>
       <tags>
         <tag>软件推荐</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[PhotoShop安装破解]]></title>
-    <url>%2FPhotoShop%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3.html</url>
+    <url>%2F2018-PhotoShop%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3.html</url>
     <content type="text"></content>
+      <categories>
+        <category>教程</category>
+      </categories>
       <tags>
         <tag>软件破解</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[office2016安装破解]]></title>
-    <url>%2Foffice2016%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3.html</url>
-    <content type="text"><![CDATA[首先推荐大家一个网站 MSDN这个网站有微软所有正版软件的镜像（只是正版软件的下载，不提供破解），与微软官网下载的东西一样，只不过分类更加简洁清晰，并且下载速度更快。这些就是各种office版本的介绍，当然我这里破解的是office2016，自然下载的也是office2016啦。下载完之后，就要下载破解工具了，微云分享把这些东西下载完了之后先解压安装office2016，这个版本是默认安装在C盘的，直接执行安装 注意这里可以从office文件夹选择安装32位还是64位之后就静待安装成功啦。安装好了以后我们可以打开一下word，可以看到软件是没有激活的。这时候我们打开解压好的破解文件夹，同时把电脑上各种杀毒软件暂时关闭，否则会报毒不能破解，按照下图的顺序依次点开这两个批处理文件这时候我们再点开word，发现已经可以正常使用了，同时点开其他的比如PPT啊还有excel已经可以使用了。]]></content>
+    <url>%2F2018-office2016%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3.html</url>
+    <content type="text"><![CDATA[首先推荐大家一个网站 MSDN这个网站有微软所有正版软件的镜像（只是正版软件的下载，不提供破解），与微软官网下载的东西一样，只不过分类更加简洁清晰，并且下载速度更快。这些就是各种office版本的介绍，当然我这里破解的是office2016，自然下载的也是office2016啦。下载完之后，就要下载破解工具了，微云分享把这些东西下载完了之后先解压安装office2016，这个版本是默认安装在C盘的，直接执行安装 注意这里可以从office文件夹选择安装32位还是64位 之后就静待安装成功啦。 安装好了以后我们可以打开一下word，可以看到软件是没有激活的。这时候我们打开解压好的破解文件夹，同时把电脑上各种杀毒软件暂时关闭，否则会报毒不能破解，按照下图的顺序依次点开这两个批处理文件这时候我们再点开word，发现已经可以正常使用了，同时点开其他的比如PPT啊还有excel已经可以使用了。]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
       <tags>
         <tag>软件破解</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
-    <url>%2Fhello-world.html</url>
-    <content type="text"><![CDATA[本文为笔者测试专用，并无其他用处。 一级标题二级标题1$ 文本输入测试 More info: 测试]]></content>
+    <url>%2F2018-hello-world.html</url>
+    <content type="text"><![CDATA[本文为笔者测试专用，并无其他用处。 一级标题二级标题1$ 文本输入测试 More info: 测试 我可以设置这一句的颜色哈哈 我还可以设置这一句的大小嘻嘻 我甚至可以设置这一句的颜色和大小呵呵]]></content>
   </entry>
 </search>
