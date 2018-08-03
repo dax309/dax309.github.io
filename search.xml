@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[sublime 正版注册码]]></title>
+    <url>%2Fsublime.html</url>
+    <content type="text"><![CDATA[Sublime Text 是受众多开发者比较喜欢的代码编辑器。支持全系统平台。今天 Sublime Text官网，Logo，编辑器UI 都变啦~ 漂亮了不少~网上有人分享了一组最新版 Sublime Text 3（3143） 的正版注册码。有需要的速度激活啊啊啊！！！ 12345678910111213—– BEGIN LICENSE —–推特Inc200 User LicenseEA7E-8900071D77F72E 390CDD93 4DCBA022 FAF6079061AA12C0 A37081C5 D0316412 4584D13694D7F7D4 95BC8C1C 527DA828 560BB037D1EDDD8C AE7B379F 50C9D69D B35179EF2FE898C4 8E4277A8 555CE714 E1FB0E43D5D52613 C3D12E98 BC49967F 7652EED29D2D2E61 67610860 6D338B72 5CF95C69E36B85CC 84991F19 7575D828 470A92AB—— END LICENSE —— 资料来自https://51.ruyo.net/5402.html]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>sublime</tag>
+        <tag>分享</tag>
+        <tag>软件破解</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[解决Sublime Text 3输入法中输入法不跟随光标移动的问题]]></title>
     <url>%2F3%E8%BE%93%E5%85%A5%E6%B3%95.html</url>
     <content type="text"><![CDATA[在Windows环境中上使用Sublime Text会有输入法不跟随光标移动,下面是解决的方法： 老版更新方式程序员开发了一款IMESupport插件用在Sublime Text上，解决了这个问题。但是也不是很完美，输入过程中还是偶尔会发生输入法不跟随光标移动的问题，但是好了很多。 方式一：手动安装1.下载地址：GitHub页面：https://github.com/chikatoike/IMESupport在GitHub页面下载该项目的ZIP包，解压出来将文件夹名称改为IMESupport，放到Sublime Text 3的插件目录重启软件即可。插件目录可通过菜单-&gt;preferences-&gt;packages来打开。ps：汉化版的是：首选项-&gt;程序包 方式二：在线安装通过Package Control在线安装：安装Package Control插件（安装方法请自行搜索），通过Install Package选项列出插件列表，搜索IMESupport安装即可。 Windows10环境下自带输入法输入框不跟随光标移动问题IMESupport这个方法只是针对第三方输入法的，对win10自带输入法并不其效果。然后就有大神自己修改的插件，放到了GitHub上：https://github.com/zcodes/IMESupport注意：这是 chikatoike/IMESupport 的 fork 版本，所以不要使用 package_control 安装。直接将该项目克隆或是下载到 Sublime_Text_3_Install_Path/Data/Packages 目录下。]]></content>
@@ -17,7 +30,7 @@
     <content type="text"><![CDATA[GitHub教育包可以申请网站优惠券，比如我们经常用的服务器提供商DigitalOcean，而且教育包还可以免费用私有仓库（普通用户新建的私有仓库是收费的）今天给大家介绍一下怎么申请GitHub的教育包！ 访问申请网址：https://education.github.com/pack 点击 get your pack。然后就是登陆了，有账号登陆，没账号申请 注意如果有学校邮箱，就是后缀为edu.cn的邮箱，因为之后验证学生的时候会更快一点，省去了很多麻烦，一般高校官网都提供申请邮箱 登陆后登陆后就是这个样子了，这段提示大概意思是：在您获得优惠信息之前，我们需要确认您是学生。教师，研究人员，教职员工和其他教育用户可以免费获得GitHub的折扣，但不符合Pack的资格。如果您不是学生，您仍然可以申请常规GitHub以获得教育折扣。 如果你达到了申请条件，现在就可以点击“我是学生”了 这时候就会进入这个界面一般Name和Verify academic status都给你默认填好了。BUT！！！只有你这个Verify academic status填的是你们学校分发的个人邮箱的时候才能通过认证！！！当一切填完了就等待通过就行了。 没有教育邮箱怎么办？？？肯定有的人没有学校邮箱这种东西。这个时候你就点右边的下拉箭头，选择另一个选项（我没有学校邮箱这种东西）。然后下边就会出现这个了。你就需要在虚线框里上传你的学生卡照片之类的，反正能证明你是个学生就OK。然后就填写下边的信息。这句话大意是：请上传您的学校ID，学术成绩单或其他附属证明的图像。请确保至少有一个显示您当前学术状态的日期清晰可见。做完这些就等待接收邮件等待验证吧，大概等个一半天的，就能收到了，到此就申请到了自己的GitHub教育包了！！！]]></content>
       <categories>
         <category>分享</category>
-        <category>教程</category>
+        <category>hexo个人博客搭建教程</category>
       </categories>
       <tags>
         <tag>分享</tag>
