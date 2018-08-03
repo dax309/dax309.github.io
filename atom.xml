@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-02T14:59:10.678Z</updated>
+  <updated>2018-08-03T02:25:36.272Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>解决Sublime Text 3输入法中输入法不跟随光标移动的问题</title>
+    <link href="http://dax309.club/3%E8%BE%93%E5%85%A5%E6%B3%95.html"/>
+    <id>http://dax309.club/3输入法.html</id>
+    <published>2018-08-03T01:40:28.000Z</published>
+    <updated>2018-08-03T02:25:36.272Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在Windows环境中上使用Sublime Text会有输入法不跟随光标移动,下面是解决的方法：&lt;/p&gt;
+&lt;h2 id=&quot;老版更新方式&quot;&gt;&lt;a href=&quot;#老版更新方式&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="Sublime" scheme="http://dax309.club/tags/Sublime/"/>
+    
+  </entry>
   
   <entry>
     <title>github教育包申请</title>
@@ -130,7 +157,7 @@
     <link href="http://dax309.club/2018-hello-world.html"/>
     <id>http://dax309.club/2018-hello-world.html</id>
     <published>2018-07-31T08:51:23.595Z</published>
-    <updated>2018-08-02T14:57:04.469Z</updated>
+    <updated>2018-08-03T01:33:33.639Z</updated>
     
     <summary type="html">
     
