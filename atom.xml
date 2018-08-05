@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-05T03:45:38.287Z</updated>
+  <updated>2018-08-05T10:11:21.210Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -15,6 +15,73 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>了解电脑硬件-CPU</title>
+    <link href="http://dax309.club/learnPC-CPU.html"/>
+    <id>http://dax309.club/learnPC-CPU.html</id>
+    <published>2018-08-05T09:41:15.000Z</published>
+    <updated>2018-08-05T10:11:21.210Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;CPU是电脑的大脑，负责处理所有数据。通过一台电脑的CPU，可以大致看出这台电脑的定位、用途。也只有挑了CPU，才能更好地挑主板、CPU散热器、内存等其他部件。&lt;/p&gt;
+&lt;p&gt;参考文章：&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzI1MTIxODg5MA==&amp;amp;mid=2652639811&amp;amp;idx=1&amp;amp;sn=d8aabe341bdc1e74401d661f96c0b172&amp;amp;scene=19#wechat_redirect&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://mp.weixin.qq.com/s?__biz=MzI1MTIxODg5MA==&amp;amp;mid=2652639811&amp;amp;idx=1&amp;amp;sn=d8aabe341bdc1e74401d661f96c0b172&amp;amp;scene=19#wechat_redirect&lt;/a&gt;&lt;br&gt;转载请注明出处：&lt;/p&gt;
+&lt;h2 id=&quot;区别CPU及其性能&quot;&gt;&lt;a href=&quot;#区别CPU及其性能&quot; class=&quot;headerlink&quot; title=&quot;区别CPU及其性能&quot;&gt;&lt;/a&gt;区别CPU及其性能&lt;/h2&gt;&lt;h3 id=&quot;核心数量&quot;&gt;&lt;a href=&quot;#核心数量&quot; class=&quot;headerlink&quot; title=&quot;核心数量&quot;&gt;&lt;/a&gt;核心数量&lt;/h3&gt;&lt;p&gt;核心（Core）又称为内核，是 CPU 最重要的组成部分，CPU 所有的计算，接受与存储命令，处理数据都由核心执行。&lt;/p&gt;
+&lt;h3 id=&quot;主频&quot;&gt;&lt;a href=&quot;#主频&quot; class=&quot;headerlink&quot; title=&quot;主频&quot;&gt;&lt;/a&gt;主频&lt;/h3&gt;&lt;p&gt;主频即 CPU 内数字脉冲信号震荡的频率，单位是赫兹（Hz），主要用来表示CPU的运算速度。目前的CPU主频都在十亿（1000000000）赫兹以上，因此单位通常是 GHz。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="攒机指南之硬件简介" scheme="http://dax309.club/categories/%E6%94%92%E6%9C%BA%E6%8C%87%E5%8D%97%E4%B9%8B%E7%A1%AC%E4%BB%B6%E7%AE%80%E4%BB%8B/"/>
+    
+    
+      <category term="Windows" scheme="http://dax309.club/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>了解电脑硬件-整体</title>
+    <link href="http://dax309.club/learnPC.html"/>
+    <id>http://dax309.club/learnPC.html</id>
+    <published>2018-08-05T09:11:29.000Z</published>
+    <updated>2018-08-05T09:39:03.302Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;无论是买一体机还是组装机，都需要对电脑硬件有一些基本了解，这样我们在选购的时候才能做到从容不迫，从需要的角度去选择最适合自己的那一台。&lt;br&gt;一台电脑需要的基本部件有：机箱，显示器，键盘和鼠标，主板，内存，CPU，显卡，声卡，硬盘，光驱，电源等。&lt;/p&gt;
+&lt;h2 id=&quot;CPU&quot;&gt;&lt;a href=&quot;#CPU&quot; class=&quot;headerlink&quot; title=&quot;CPU&quot;&gt;&lt;/a&gt;CPU&lt;/h2&gt;&lt;p&gt;CPU就是中央处理器,是电脑的计算中心和控制中心,是电脑中最重要的部件.主要负责计算电脑中的各种数据和控制电脑部件的合作运行。&lt;/p&gt;
+&lt;p&gt;CPU最重要的两个数据时频率和核心数目,频率就是平时说的多少GHz,比如2.1GHz数据越大电脑速度越快。核心数，物理上指的是真实存在的CPU处理器的个数，核心数越多，电脑速度越快。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="攒机指南之硬件简介" scheme="http://dax309.club/categories/%E6%94%92%E6%9C%BA%E6%8C%87%E5%8D%97%E4%B9%8B%E7%A1%AC%E4%BB%B6%E7%AE%80%E4%BB%8B/"/>
+    
+    
+      <category term="Windows" scheme="http://dax309.club/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows 10 激活工具HWIDGEN</title>
+    <link href="http://dax309.club/windows10%20tool%20HWIDGEN.html"/>
+    <id>http://dax309.club/windows10 tool HWIDGEN.html</id>
+    <published>2018-08-05T08:49:34.000Z</published>
+    <updated>2018-08-05T09:04:31.954Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;日前在国外科技论坛有大神发布名为HWIDGEN激活工具，该激活工具几乎秒杀所有版本Windows 10系统。&lt;br&gt;我们知道Windows 10现在激活后会带有数字权利，数字权利可以在我们重装系统后自动激活无需再次激活。&lt;br&gt;而HWIDGEN激活工具正是直接获取数字激活权利进行永久激活，此方法激活后用户下次安装同样无需激活&lt;br&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="软件破解" scheme="http://dax309.club/tags/%E8%BD%AF%E4%BB%B6%E7%A0%B4%E8%A7%A3/"/>
+    
+      <category term="Windows" scheme="http://dax309.club/tags/Windows/"/>
+    
+  </entry>
   
   <entry>
     <title>【推荐收藏】几款谷歌有关安卓软件推荐【持续更新】</title>
@@ -105,9 +172,9 @@
       <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="sublime" scheme="http://dax309.club/tags/sublime/"/>
-    
       <category term="分享" scheme="http://dax309.club/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="sublime" scheme="http://dax309.club/tags/sublime/"/>
     
       <category term="软件破解" scheme="http://dax309.club/tags/%E8%BD%AF%E4%BB%B6%E7%A0%B4%E8%A7%A3/"/>
     
