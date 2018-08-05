@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-05T12:37:14.731Z</updated>
+  <updated>2018-08-05T15:06:51.914Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>了解电脑硬件-主板</title>
+    <link href="http://dax309.club/learnPC-%E4%B8%BB%E6%9D%BF.html"/>
+    <id>http://dax309.club/learnPC-主板.html</id>
+    <published>2018-08-05T14:24:46.000Z</published>
+    <updated>2018-08-05T15:06:51.914Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;转自：&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="攒机指南之硬件简介" scheme="http://dax309.club/categories/%E6%94%92%E6%9C%BA%E6%8C%87%E5%8D%97%E4%B9%8B%E7%A1%AC%E4%BB%B6%E7%AE%80%E4%BB%8B/"/>
+    
+    
+      <category term="Windows" scheme="http://dax309.club/tags/Windows/"/>
+    
+  </entry>
   
   <entry>
     <title>了解电脑硬件-CPU</title>
@@ -279,9 +305,17 @@
     <link href="http://dax309.club/2018-PhotoShop%E5%AE%89%E8%A3%85%E7%A0%B4%E8%A7%A3.html"/>
     <id>http://dax309.club/2018-PhotoShop安装破解.html</id>
     <published>2018-07-31T11:41:05.000Z</published>
-    <updated>2018-08-03T08:04:28.884Z</updated>
+    <updated>2018-08-05T14:21:50.412Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Photoshop是Adobe公司旗下最为出名的图像处理软件之一，集图像扫描、编辑修改、图像制作、广告创意，图像输入与输出于一体的图形图像处理软件，深受广大平面设计人员和电脑美术爱好者的喜爱。&lt;br&gt;&lt;img
+        
+      
     
     </summary>
     
@@ -317,7 +351,7 @@
     <link href="http://dax309.club/2018-hello-world.html"/>
     <id>http://dax309.club/2018-hello-world.html</id>
     <published>2018-07-31T08:51:23.595Z</published>
-    <updated>2018-08-05T12:15:25.474Z</updated>
+    <updated>2018-08-05T14:38:22.722Z</updated>
     
     <summary type="html">
     
