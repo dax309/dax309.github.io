@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-06T07:43:06.256Z</updated>
+  <updated>2018-08-06T09:33:06.229Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -17,21 +17,61 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>SSR节点分享</title>
-    <link href="http://dax309.club/freeSSR.html"/>
-    <id>http://dax309.club/freeSSR.html</id>
-    <published>2018-08-06T06:08:25.000Z</published>
-    <updated>2018-08-06T07:43:06.256Z</updated>
+    <title>申请西南学院（Southwestern College）EDU邮箱</title>
+    <link href="http://dax309.club/%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6EDU.html"/>
+    <id>http://dax309.club/西南大学EDU.html</id>
+    <published>2018-08-06T09:23:31.000Z</published>
+    <updated>2018-08-06T09:33:06.229Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;分享一个免费SSR链接更新网站 ：&lt;a href=&quot;https://free-ss.cf/&quot; target=&quot;_blank&quot;
-        
-      
+      &lt;p&gt;&lt;img src=&quot;/images/edu/4.jpg&quot;&gt;&lt;br&gt;本文转载自：&lt;a href=&quot;http://blog.jialezi.net/?post=102&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://blog.jialezi.net/?post=102&lt;/a&gt;&lt;br&gt;西南学院（Southwestern College）位于加利福尼亚州的丘拉维斯塔市（Chula Vista），索拉诺郡，旧金山和萨克拉门托之间，是一所公立社区学院，成立于1961年，拥有在校学生5千多人。西南学院也是加州社区学院系统112个成员之一，校园占地0.63平方公里。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="EDU邮箱申请" scheme="http://dax309.club/tags/EDU%E9%82%AE%E7%AE%B1%E7%94%B3%E8%AF%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>申请美国金西学院(Golden West College)EDU邮箱教程</title>
+    <link href="http://dax309.club/EDUemailone.html"/>
+    <id>http://dax309.club/EDUemailone.html</id>
+    <published>2018-08-06T08:58:56.000Z</published>
+    <updated>2018-08-06T09:22:33.607Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;/images/edu/edu1.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&quot;2&quot;&gt;本文转载自：&lt;a href=&quot;http://blog.jialezi.net/?post=130&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;jialezi博客，博主并未测试。&lt;/a&gt;&lt;/font&gt;&lt;br&gt;金西学院座落于南加利福尼亚州亨廷顿海滩的海岸社区，成立于1966年，隶属加利福尼亚社区学院体系。校区占地120英亩，景色优美、环境宜人，现有全日制和半日制在校学生约1.3万人，是一所中等规模的两年制社区学院。 金西学院提供文学副学士学位、大学转学分课程，帮助学生节省学士学位前两年的学费。&lt;br&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="EDU邮箱申请" scheme="http://dax309.club/tags/EDU%E9%82%AE%E7%AE%B1%E7%94%B3%E8%AF%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【持续更新】免费SSR节点分享【推荐收藏】</title>
+    <link href="http://dax309.club/freeSSR.html"/>
+    <id>http://dax309.club/freeSSR.html</id>
+    <published>2018-08-06T06:08:25.000Z</published>
+    <updated>2018-08-06T08:47:44.348Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;通过修改hosts实现上网：&lt;a href=&quot;https://laod.cn/hosts/2018-google-hosts.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;老D&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;免费SSR链接更新网站 ：&lt;a href=&quot;https://free-ss.cf/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://free-ss.cf/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;免费SS/SSR分享： &lt;a href=&quot;https://github.com/gfw-breaker/ssr-accounts&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/gfw-breaker/ssr-accounts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;免费SSR分享 ：&lt;a href=&quot;https://www.hinwen.com/32409.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.hinwen.com/32409.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;SS&amp;amp;SSR加速圈 ：&lt;a href=&quot;https://plus.google.com/communities/106442142549456855872/stream/62937124-015f-4f9c-81c9-914444653b8a&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Google+社群&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;免费账号分享：&lt;a href=&quot;https://doub.io/sszhfx/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;逗比根据地&lt;/a&gt;&lt;br&gt;
     
     </summary>
     
@@ -84,9 +124,9 @@
       <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="ssr" scheme="http://dax309.club/tags/ssr/"/>
-    
       <category term="DigitalOcean" scheme="http://dax309.club/tags/DigitalOcean/"/>
+    
+      <category term="ssr" scheme="http://dax309.club/tags/ssr/"/>
     
   </entry>
   

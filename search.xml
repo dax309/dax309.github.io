@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[SSR节点分享]]></title>
+    <title><![CDATA[申请西南学院（Southwestern College）EDU邮箱]]></title>
+    <url>%2F%E8%A5%BF%E5%8D%97%E5%A4%A7%E5%AD%A6EDU.html</url>
+    <content type="text"><![CDATA[本文转载自：http://blog.jialezi.net/?post=102西南学院（Southwestern College）位于加利福尼亚州的丘拉维斯塔市（Chula Vista），索拉诺郡，旧金山和萨克拉门托之间，是一所公立社区学院，成立于1961年，拥有在校学生5千多人。西南学院也是加州社区学院系统112个成员之一，校园占地0.63平方公里。 学校网址www.swccd.edu 申请地址http://www.swccd.edu/index.aspx?page=279 简单步骤先填写 Last Name和apply term。之后会转到openccc填写申请。之前申请过加州的社区大学的应该都不陌生这个申请过程，如果你已有账号，基本5分钟就完成。按要求填写资料。申请后大概1-2 business day会收到通过邮件邮箱为Gmail，格式：jw1047708@swccd.edu 等了大概5天，除去2天周末假日和时差，2-3天吧收到账号密码后，登录 https://sso.swccd.edu激活首次登录会叫你填写手机邮箱（要收验证码），你不填可是可以的登录后请修改密码，之后可以去使用邮箱了Gdrive无限容量。]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>EDU邮箱申请</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[申请美国金西学院(Golden West College)EDU邮箱教程]]></title>
+    <url>%2FEDUemailone.html</url>
+    <content type="text"><![CDATA[本文转载自：jialezi博客，博主并未测试。金西学院座落于南加利福尼亚州亨廷顿海滩的海岸社区，成立于1966年，隶属加利福尼亚社区学院体系。校区占地120英亩，景色优美、环境宜人，现有全日制和半日制在校学生约1.3万人，是一所中等规模的两年制社区学院。 金西学院提供文学副学士学位、大学转学分课程，帮助学生节省学士学位前两年的学费。Golden West College隶属于海岸社区大学学区Coast Community College District，除了本校的课程，Golden West College的学生还可以在学区内的另外两所大学Orange Coast College和Coastline Community College自由选课。（三间学院共用一邮件系统） 学校官网http://www.goldenwestcollege.edu/ 申请地址https://www.opencccapply.net/cccapply-welcome?cccMisCode=832 特别提示1.邮箱前缀firstname首字母+lastname（重复可能后面加随机数字），后缀为@student.cccd.edu。密码为firstname首字母大写+lastname首字母小写+6为生日，如John Smith, March 28, 1998，密码为Js032898. 2.验证office365也是没问题的（https://products.office.com/en-US/student）。 3.邮箱为gmail邮箱，当然带有无限Gdrive啦。 4.审核通过时间24内，原话“Most applications are processed by the college within 24 hours.” 5.有大佬反馈，申请地址提示ip被禁止，挂美国代理可解决。 6.有大佬反馈申请完提示要审核，尽量使用不同的申请资料吧。 获取邮箱 申请完成，应该收到几封邮件，有welcome的，有调查问卷的。24小时内再收到一封通过的邮件，邮件包括你的用户名，学号和密码规则，如下 登陆：http://mycoast.cccd.edu/，就可以看到你的信息，点Open Mail就可以跳转到Gmail(当然你可以直接在Gmail登陆)]]></content>
+      <categories>
+        <category>教程</category>
+      </categories>
+      <tags>
+        <tag>EDU邮箱申请</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[【持续更新】免费SSR节点分享【推荐收藏】]]></title>
     <url>%2FfreeSSR.html</url>
-    <content type="text"><![CDATA[分享一个免费SSR链接更新网站 ：https://free-ss.cf/玩法可自行探索]]></content>
+    <content type="text"><![CDATA[通过修改hosts实现上网：老D 免费SSR链接更新网站 ：https://free-ss.cf/ 免费SS/SSR分享： https://github.com/gfw-breaker/ssr-accounts 免费SSR分享 ：https://www.hinwen.com/32409.html SS&amp;SSR加速圈 ：Google+社群 免费账号分享：逗比根据地 逗比根据地直连域名方法其实可以通过修改 hosts 文件的方式来直连逗比根据地，Windows、MAC、Linux 都支持，安卓则需要 ROOT。注意：必须通过 HTTPS 访问才行，HTTP访问会被拦截。12345Windows 打开文件：C:\Windows\System32\drivers\etc\hosts在文件最后追加一行：104.16.248.1 doub.io然后访问 https://doub.io，如果不行请清理浏览器缓存。请在遵守当地相关法律法规的前提下使用本项目，由此产生的问题我们不负任何责任。]]></content>
       <categories>
         <category>分享</category>
       </categories>
@@ -31,8 +53,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>ssr</tag>
         <tag>DigitalOcean</tag>
+        <tag>ssr</tag>
       </tags>
   </entry>
   <entry>
