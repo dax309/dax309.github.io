@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-06T06:10:30.159Z</updated>
+  <updated>2018-08-06T07:43:06.256Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>分享一个免费SSR链接更新网站</title>
+    <title>SSR节点分享</title>
     <link href="http://dax309.club/freeSSR.html"/>
     <id>http://dax309.club/freeSSR.html</id>
     <published>2018-08-06T06:08:25.000Z</published>
-    <updated>2018-08-06T06:10:30.159Z</updated>
+    <updated>2018-08-06T07:43:06.256Z</updated>
     
     <summary type="html">
     
@@ -84,9 +84,9 @@
       <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-      <category term="DigitalOcean" scheme="http://dax309.club/tags/DigitalOcean/"/>
-    
       <category term="ssr" scheme="http://dax309.club/tags/ssr/"/>
+    
+      <category term="DigitalOcean" scheme="http://dax309.club/tags/DigitalOcean/"/>
     
   </entry>
   

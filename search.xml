@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[分享一个免费SSR链接更新网站]]></title>
+    <title><![CDATA[SSR节点分享]]></title>
     <url>%2FfreeSSR.html</url>
     <content type="text"><![CDATA[分享一个免费SSR链接更新网站 ：https://free-ss.cf/玩法可自行探索]]></content>
       <categories>
@@ -31,8 +31,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>DigitalOcean</tag>
         <tag>ssr</tag>
+        <tag>DigitalOcean</tag>
       </tags>
   </entry>
   <entry>
