@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-05T15:18:51.917Z</updated>
+  <updated>2018-08-06T06:10:30.159Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -15,6 +15,80 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>分享一个免费SSR链接更新网站</title>
+    <link href="http://dax309.club/freeSSR.html"/>
+    <id>http://dax309.club/freeSSR.html</id>
+    <published>2018-08-06T06:08:25.000Z</published>
+    <updated>2018-08-06T06:10:30.159Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;分享一个免费SSR链接更新网站 ：&lt;a href=&quot;https://free-ss.cf/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="分享" scheme="http://dax309.club/categories/%E5%88%86%E4%BA%AB/"/>
+    
+    
+      <category term="分享" scheme="http://dax309.club/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="ssr" scheme="http://dax309.club/tags/ssr/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DigitalOCean使用Github教育包优惠券方法</title>
+    <link href="http://dax309.club/DigitalOcean%E4%BC%98%E6%83%A0%E5%88%B8.html"/>
+    <id>http://dax309.club/DigitalOcean优惠券.html</id>
+    <published>2018-08-06T05:50:15.000Z</published>
+    <updated>2018-08-06T06:05:38.384Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;有好多朋友都遇到了这样的问题，即：通过别人的邀请链接，当自己在输入github的学生优惠码的时候却提示不可以用。&lt;/p&gt;
+&lt;p&gt;原因是digitalocean网站限制了优惠次数，也就是说不管你通过什么样方式获得优惠，只能优惠一次，所以学生码不管用了。&lt;/p&gt;
+&lt;p&gt;这个时候大家可以在网站的support里提交一个ticket，也就是给客服发个邮件说明情况，客服一般会帮你手动添加的。鉴于每一封邮件往来时间需要一天，所以在发ticket的时候就把你的github学生优惠码贴上。&lt;br&gt;1.进入网站点击support&lt;br&gt;&lt;img src=&quot;/images/ssr/14.png&quot;&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="DigitalOcean" scheme="http://dax309.club/tags/DigitalOcean/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>利用DigitalOcean服务器搭建SSR科学上网</title>
+    <link href="http://dax309.club/SSR%E6%90%AD%E5%BB%BA.html"/>
+    <id>http://dax309.club/SSR搭建.html</id>
+    <published>2018-08-06T02:24:03.000Z</published>
+    <updated>2018-08-06T06:03:23.285Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;DigitalOcean是一家成立于2012年的总部设置在纽约的云主机商家，采用KVM虚拟，配置高性能的SSD做储存，加上服务器配备的是1000M端口，以512M内存为起点，月付最低低至5美元！&lt;br&gt;在之前我们已经交大家怎么申请Github教育包了，从而已经有DigitalOcean一个50$的优惠券（没有看到教程的小伙伴可以去回顾一下：&lt;a href=&quot;https://dax309.club/github%E6%95%99%E8%82%B2%E5%8C%85%E7%94%B3%E8%AF%B7.html&quot;&gt;传送门&lt;/a&gt;  ）。再加上下面的优惠链接另外获得10$，至少有一年免费使用时间。&lt;/p&gt;
+&lt;h2 id=&quot;注册账号&quot;&gt;&lt;a href=&quot;#注册账号&quot; class=&quot;headerlink&quot; title=&quot;注册账号&quot;&gt;&lt;/a&gt;注册账号&lt;/h2&gt;&lt;p&gt;点击 &lt;a href=&quot;https://m.do.co/c/0317491612b6&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;DigitalOcean优惠链接&lt;/a&gt;进入注册页面&lt;/p&gt;
+&lt;p&gt;&lt;font size=&quot;5&quot; color=&quot;#FF0000&quot;&gt;切记要从本链接点击注册，不然没有10$优惠券&lt;/font&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="DigitalOcean" scheme="http://dax309.club/tags/DigitalOcean/"/>
+    
+      <category term="ssr" scheme="http://dax309.club/tags/ssr/"/>
+    
+  </entry>
   
   <entry>
     <title>了解电脑硬件-主板</title>
