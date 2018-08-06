@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-06T09:33:06.229Z</updated>
+  <updated>2018-08-06T15:10:23.406Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>快速搭建淘宝优惠券网站</title>
+    <link href="http://dax309.club/list21.html"/>
+    <id>http://dax309.club/list21.html</id>
+    <published>2018-08-06T13:53:14.000Z</published>
+    <updated>2018-08-06T15:10:23.406Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;优惠券网站主要是自动收集淘宝站内商家所给的优惠券，用户在站内领券下单即可获得一定佣金。很多人微信里都有淘宝天猫优惠券群，相信很多姐妹们都遇到过，都在里面购物过，那么群主是怎么赚米的呢？你们天天在群里买买买的同时，群主可以提成每个产品券后单价的最低30%-60%的利润，在群主的后台可以看见，而且这些产品都来自淘宝天猫，售后无忧有保障，每天群里这么多姐妹剁手，大家可想而知利润真的太吓人了！&lt;br&gt;
+    
+    </summary>
+    
+      <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="教程" scheme="http://dax309.club/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>申请西南学院（Southwestern College）EDU邮箱</title>
@@ -452,22 +472,6 @@
     
     
       <category term="软件破解" scheme="http://dax309.club/tags/%E8%BD%AF%E4%BB%B6%E7%A0%B4%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://dax309.club/2018-hello-world.html"/>
-    <id>http://dax309.club/2018-hello-world.html</id>
-    <published>2018-07-31T08:51:23.595Z</published>
-    <updated>2018-08-05T14:38:22.722Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;本文为笔者测试专用，并无其他用处。&lt;br&gt;
-    
-    </summary>
-    
     
   </entry>
   
