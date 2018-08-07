@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[百度网盘不限速工具分享]]></title>
+    <url>%2Flist27.html</url>
+    <content type="text"><![CDATA[不定时更新，如果工具失效，请留言 速盘（推荐）官网：http://www.speedpan.com/使百度网盘保持全速下载免受限速困扰！1 免登陆下载2.搜索资源3.管理我的网盘4.极限下载速度 爱奇艺播放器前段时间的时候突然看到有人说爱奇艺播放器里有个百度云网盘不限速下载功能，基本上就是爱奇艺(百度旗下)为了推广他的”万能播放器”，特地去百度网盘部门搞了个不限速下载的接口集成到了 “爱奇艺万能播放器” 上面。不过这个软件也有缺点，比如：不支持批量下载、不支持文件夹下载等。 官方下载地址：http://app.iqiyi.com/pc/wnplayer/index.html 精简版（免安装，去掉播放器功能）：百度云微云 PanDownload官网：http://pandownload.com/下载地址：http://pandownload.com/1.5.4 这个应该很多人都听过，前段时间因为有人淘宝售卖该软件而导致作者差点停止软件。虽然目前看来作者已经不再更新了(仅在QQ群更新分享，五元入群永久分享)，但是各个功能还是正常能用的，就是偶尔会出现下载线程很少速度很慢的情况。该软件不登陆也能用，所以如果你怕封号、限速，那么就把文件分享后通过分享链接下载资源即可。如果你的账号已经被限速10KB/s了，也可以通过分享链接的方式下载资源，依然高速下载！ ProxyEe Down官网：https://github.com/monkeyWie/proxyee-down 介绍：https://doub.io/dbrj-9/ 这个软件也是前段时间比较火的一个百度网盘不限速下载工具，不过相比其他软件，这软件一开始的安装步骤要麻烦一点点，其他功能都挺好用。 油猴脚本（不推荐）介绍：https://doub.io/wlzy-7/ 之所以不推荐油猴脚本了，也是因为油猴脚本方式获取直链多线程下载，被封号、限速几率较高，当然如果你不登陆账户，只通过分享链接获取下载直链的话倒是不用担心。 然而我刚才又试了下，脚本解析出来的下载直链，速度。。。所以，不推荐！]]></content>
+      <tags>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Brook代理 Windows/Android版客户端简单使用教程]]></title>
+    <url>%2Flist26.html</url>
+    <content type="text"><![CDATA[本文参考：https://doub.io/brook-jc2/Brook是一个由 Go语言编写的跨平台代理软件，支持 Linux/MacOS/Windows/Android/iOS 各个平台。本篇主要介绍 Brook客户端中 Windows/Android的使用方法 客户端下载Github下载地址：https://github.com/txthinking/brook/releases逗比云 下载地址：https://softs.loan/?dir=科学上网/PC/Brook Windows客户端 使用方法下载客户端并运行后，会提示你安装 Brook 按照提示安装即可。 安装完后，一般情况下会自动启动 Brook 客户端，启动后会看到如下图：然后根据服务端设置的 模式/端口/密码 来填写客户端设置（注意服务端的协议模式是 新版Brook 还是 旧版Stream Brook），填写后点击 SAVE 按钮保存即可。账号分享：https://doub.io/sszhfx/同时托盘图标右下角托盘图标也会有一个黑色的钥匙：1.Toggle 代表启动/停止 Brook 代理。2.Setting 则会打开设置窗口，也就是上面图片配置账号的窗口。填写完 Brook 账号信息后，直接点击 Toggle 选项就会自动设置系统代理了。如果你没有用任何 代理扩展，那么就直接可以直接访问谷歌测试了，不过我更建议使用 代理扩展来控制，更方便一些。 注意： 1.如果你要更换Brook账号，那么需要去控制页面修改账号信息并点击 SAVE 按钮保存，然后右键托盘图标点击 Toggle 才行！2.Brook客户端的本地监听端口是 1080 ，这意味着和 Shadowsocks/ShadowsocksR客户端默认的本地监听端口是冲突的，所以请修改Shadowsocks/ShadowsocksR的客户端默认本地端口，或者同一时间只运行一种客户端。Brook 客户端设置说明 在 Brook 客户端的设置窗口中，点击左上角的 三个横杠，就会看到如下图：Server 代表的是配置账号。Advanced 代表的是客户端配置。我们点击 Advanced 按钮，就会看到如下图：各个选项的意思我都翻译写到图片里了，大家自己看，修改后记得点击 SAVE 按钮保存（如果是修改了代理相关设置，那么可能还需要点击托盘菜单的 Toggle 选项重新启动代理）。 代理扩展控制(可选) 这里建议使用 SwitchyOmega 扩展（点击查看新手使用教程） 来管理代理。 安装扩展后，打开扩展的选项页面，然后新建情景模式，分别添加一个全局和PAC的情景模式。 全局情景模式 新建情景模式，名称随意（例如 Brook-全局），类型选择 代理服务器 然后设置代理协议为 SOCKS5 ，代理服务器为 127.0.0.1 ，代理端口为 1080 然后点击页面左下角的 应用选项 即可。 自动切换(PAC)情景模式 新建情景模式，名称随意（例如 Brook-PAC），类型选择 自动切换模式 然后在规则列表设置中 规则列表格式选择 AutoProxy， 规则列表网址为 https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt 同时切换规则中，按照规则列表匹配请求的情景模式选择上面设置过的 Brook-全局 情景模式。 然后点击 立即更新情景模式 按钮，然后点击页面左下角的 应用选项 即可。 Android客户端 使用方法下载客户端并安装运行后，界面很简单。 然后根据服务端设置的 混淆协议模式/端口/密码 来填写客户端设置，填写后点击 Start 按钮启动即可。 Brook安卓客户端和Shadowsocks/ShadowsocksR客户端一样，都是把代理转成 VPN，所以一开始会提示创建VPN 选择信任并确定即可。不过Brook安卓客户端支持PAC分流（不过好像不是很准确？） 责任声明： 本站一切资源仅用作交流学习，请勿用作商业或违法行为！如造成任何后果，本站概不负责！ 转载请超链接注明：DAX的个人博客：https://dax309.club/list26.html]]></content>
+      <categories>
+        <category>翻墙</category>
+      </categories>
+      <tags>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[翻墙软件合集【持续更新】]]></title>
     <url>%2Flist25.html</url>
-    <content type="text"><![CDATA[SSR使用SSR请转：https://dax309.club/freeSSRshare.html 赛风直接下载Windows：https://psiphon.ca/psiphon3.exeAndroid：https://psiphon.ca/PsiphonAndroid.apkiOS：https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&amp;mt=8通过邮件下载邮箱地址：get@psiphon3.com如果网站或下载链接受到封锁或审查，您可以通过电子邮件索要下载链接。## 蓝灯GitHub：https://github.com/getlantern/download/wiki上有详细介绍## Chrome一键翻墙包有两种方式可以使用1.论坛地址：Github 内有下载地址和使用方法2.下载地址：https://www.lanzous.com/i1labra请首先自行安装Google Chrome 浏览器，然后下载本软件，本软件会自动调用Google Chrome 浏览器翻墙。 下载本项目后，解压出来，请不要解压到含有中文或空格的目录路径，请不要不解压就直接从压缩包里运行！不解压会出错！ 下载后，请认真阅读里面的使用帮助说明，然后 0.xx-10.xx翻墙 可依次尝试。## 自由门Windows: https://www.lanzous.com/i1lac1aAndroid：https://www.lanzous.com/i1lac3c## 萤火虫Windows：安装版Android：直接下载## 大杀器博客：https://gfw.press/blog自行探索使用方式请在遵守当地相关法律法规的前提下使用本项目，由此产生的问题我们不负任何责任。]]></content>
+    <content type="text"><![CDATA[SSR使用SSR请转：https://dax309.club/freeSSRshare.html 赛风直接下载Windows：https://psiphon.ca/psiphon3.exeAndroid：https://psiphon.ca/PsiphonAndroid.apkiOS：https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&amp;mt=8通过邮件下载邮箱地址：get@psiphon3.com如果网站或下载链接受到封锁或审查，您可以通过电子邮件索要下载链接。## 蓝灯GitHub：https://github.com/getlantern/download/wiki上有详细介绍## Chrome一键翻墙包有两种方式可以使用1.论坛地址：Github 内有下载地址和使用方法2.下载地址：https://www.lanzous.com/i1labra请首先自行安装Google Chrome 浏览器，然后下载本软件，本软件会自动调用Google Chrome 浏览器翻墙。 下载本项目后，解压出来，请不要解压到含有中文或空格的目录路径，请不要不解压就直接从压缩包里运行！不解压会出错！ 下载后，请认真阅读里面的使用帮助说明，然后 0.xx-10.xx翻墙 可依次尝试。## 无界项目地址：GithubWindows：GithubAndroid：Github## 自由门Windows: https://www.lanzous.com/i1lac1aAndroid：https://www.lanzous.com/i1lac3c## 萤火虫Windows：安装版Android：直接下载## 大杀器博客：https://gfw.press/blog自行探索使用方式## Brook转查看：Brook代理 Windows/Android版客户端简单使用教程请在遵守当地相关法律法规的前提下使用本项目，由此产生的问题我们不负任何责任。]]></content>
+      <categories>
+        <category>翻墙</category>
+      </categories>
       <tags>
         <tag>分享</tag>
       </tags>
@@ -70,7 +92,7 @@
   <entry>
     <title><![CDATA[【持续更新】免费SSR节点分享【推荐收藏】]]></title>
     <url>%2FfreeSSRshare.html</url>
-    <content type="text"><![CDATA[通过修改hosts实现上网：老D 免费SSR链接更新网站 ：https://free-ss.cf/ 免费SS/SSR分享： https://github.com/gfw-breaker/ssr-accounts 免费SSR分享 ：https://www.hinwen.com/32409.html SS&amp;SSR加速圈 ：Google+社群 免费账号分享：逗比根据地 逗比根据地直连域名方法其实可以通过修改 hosts 文件的方式来直连逗比根据地，Windows、MAC、Linux 都支持，安卓则需要 ROOT。注意：必须通过 HTTPS 访问才行，HTTP访问会被拦截。12345Windows 打开文件：C:\Windows\System32\drivers\etc\hosts在文件最后追加一行：104.16.248.1 doub.io然后访问 https://doub.io，如果不行请清理浏览器缓存。请在遵守当地相关法律法规的前提下使用本项目，由此产生的问题我们不负任何责任。]]></content>
+    <content type="text"><![CDATA[通过修改hosts实现上网：老D 免费SSR链接更新网站 ：https://free-ss.cf/https://free-ss.site/免费SS/SSR分享： https://github.com/gfw-breaker/ssr-accounts 免费SSR分享 ：https://www.hinwen.com/32409.html SS&amp;SSR加速圈 ：Google+社群 免费账号分享：逗比根据地 逗比根据地直连域名方法其实可以通过修改 hosts 文件的方式来直连逗比根据地，Windows、MAC、Linux 都支持，安卓则需要 ROOT。注意：必须通过 HTTPS 访问才行，HTTP访问会被拦截。12345Windows 打开文件：C:\Windows\System32\drivers\etc\hosts在文件最后追加一行：104.16.248.1 doub.io然后访问 https://doub.io，如果不行请清理浏览器缓存。请在遵守当地相关法律法规的前提下使用本项目，由此产生的问题我们不负任何责任。]]></content>
       <categories>
         <category>分享</category>
       </categories>
@@ -211,7 +233,6 @@
     <content type="text"><![CDATA[GitHub教育包可以申请网站优惠券，比如我们经常用的服务器提供商DigitalOcean，而且教育包还可以免费用私有仓库（普通用户新建的私有仓库是收费的）今天给大家介绍一下怎么申请GitHub的教育包！ 访问申请网址：https://education.github.com/pack 点击 get your pack。然后就是登陆了，有账号登陆，没账号申请 注意如果有学校邮箱，就是后缀为edu.cn的邮箱，因为之后验证学生的时候会更快一点，省去了很多麻烦，一般高校官网都提供申请邮箱 登陆后登陆后就是这个样子了，这段提示大概意思是：在您获得优惠信息之前，我们需要确认您是学生。教师，研究人员，教职员工和其他教育用户可以免费获得GitHub的折扣，但不符合Pack的资格。如果您不是学生，您仍然可以申请常规GitHub以获得教育折扣。 如果你达到了申请条件，现在就可以点击“我是学生”了 这时候就会进入这个界面一般Name和Verify academic status都给你默认填好了。BUT！！！只有你这个Verify academic status填的是你们学校分发的个人邮箱的时候才能通过认证！！！当一切填完了就等待通过就行了。 没有教育邮箱怎么办？？？肯定有的人没有学校邮箱这种东西。这个时候你就点右边的下拉箭头，选择另一个选项（我没有学校邮箱这种东西）。然后下边就会出现这个了。你就需要在虚线框里上传你的学生卡照片之类的，反正能证明你是个学生就OK。然后就填写下边的信息。这句话大意是：请上传您的学校ID，学术成绩单或其他附属证明的图像。请确保至少有一个显示您当前学术状态的日期清晰可见。做完这些就等待接收邮件等待验证吧，大概等个一半天的，就能收到了，到此就申请到了自己的GitHub教育包了！！！]]></content>
       <categories>
         <category>分享</category>
-        <category>hexo个人博客搭建教程</category>
       </categories>
       <tags>
         <tag>分享</tag>

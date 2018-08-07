@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-07T04:18:11.940Z</updated>
+  <updated>2018-08-07T12:37:49.221Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -17,11 +17,57 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>百度网盘不限速工具分享</title>
+    <link href="http://dax309.club/list27.html"/>
+    <id>http://dax309.club/list27.html</id>
+    <published>2018-08-07T12:00:55.000Z</published>
+    <updated>2018-08-07T12:37:49.221Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;不定时更新，如果工具失效，请留言&lt;/p&gt;
+&lt;h2 id=&quot;速盘（推荐）&quot;&gt;&lt;a href=&quot;#速盘（推荐）&quot; class=&quot;headerlink&quot; title=&quot;速盘（推荐）&quot;&gt;&lt;/a&gt;速盘（推荐）&lt;/h2&gt;&lt;p&gt;官网：&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="分享" scheme="http://dax309.club/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Brook代理 Windows/Android版客户端简单使用教程</title>
+    <link href="http://dax309.club/list26.html"/>
+    <id>http://dax309.club/list26.html</id>
+    <published>2018-08-07T09:11:34.000Z</published>
+    <updated>2018-08-07T12:37:51.313Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文参考：&lt;a href=&quot;https://doub.io/brook-jc2/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://doub.io/brook-jc2/&lt;/a&gt;&lt;br&gt;Brook是一个由 Go语言编写的跨平台代理软件，支持 Linux/MacOS/Windows/Android/iOS 各个平台。本篇主要介绍 Brook客户端中 Windows/Android的使用方法&lt;/p&gt;
+&lt;h2 id=&quot;客户端下载&quot;&gt;&lt;a href=&quot;#客户端下载&quot; class=&quot;headerlink&quot; title=&quot;客户端下载&quot;&gt;&lt;/a&gt;客户端下载&lt;/h2&gt;&lt;p&gt;Github下载地址：&lt;a href=&quot;https://github.com/txthinking/brook/releases&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/txthinking/brook/releases&lt;/a&gt;&lt;br&gt;逗比云 下载地址：&lt;a href=&quot;https://softs.loan/?dir=科学上网/PC/Brook&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://softs.loan/?dir=科学上网/PC/Brook&lt;/a&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="翻墙" scheme="http://dax309.club/categories/%E7%BF%BB%E5%A2%99/"/>
+    
+    
+      <category term="分享" scheme="http://dax309.club/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>翻墙软件合集【持续更新】</title>
     <link href="http://dax309.club/list25.html"/>
     <id>http://dax309.club/list25.html</id>
     <published>2018-08-07T02:53:34.000Z</published>
-    <updated>2018-08-07T04:18:11.940Z</updated>
+    <updated>2018-08-07T12:35:51.058Z</updated>
     
     <summary type="html">
     
@@ -29,6 +75,8 @@
 &lt;h2 id=&quot;赛风&quot;&gt;&lt;a href=&quot;#赛风&quot; class=&quot;headerlink&quot; title=&quot;赛风&quot;&gt;&lt;/a&gt;赛风&lt;/h2&gt;&lt;font size=&quot;5&quot;&gt;直接下载&lt;/font&gt;&lt;br&gt;Windows：&lt;a href=&quot;https://psiphon.ca/psiphon3.exe&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://psiphon.ca/psiphon3.exe&lt;/a&gt;&lt;br&gt;Android：&lt;a href=&quot;https://psiphon.ca/PsiphonAndroid.apk&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://psiphon.ca/PsiphonAndroid.apk&lt;/a&gt;&lt;br&gt;iOS：&lt;a href=&quot;https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&amp;amp;mt=8&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://itunes.apple.com/us/app/psiphon/id1276263909?ls=1&amp;amp;mt=8&lt;/a&gt;&lt;br&gt;&lt;font size=&quot;5&quot;&gt;通过邮件下载&lt;/font&gt;&lt;br&gt;邮箱地址：&lt;a href=&quot;mailto:get@psiphon3.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;get@psiphon3.com&lt;/a&gt;&lt;br&gt;如果网站或下载链接受到封锁或审查，您可以通过电子邮件索要下载链接。&lt;br&gt;
     
     </summary>
+    
+      <category term="翻墙" scheme="http://dax309.club/categories/%E7%BF%BB%E5%A2%99/"/>
     
     
       <category term="分享" scheme="http://dax309.club/tags/%E5%88%86%E4%BA%AB/"/>
@@ -40,7 +88,7 @@
     <link href="http://dax309.club/list24.html"/>
     <id>http://dax309.club/list24.html</id>
     <published>2018-08-07T02:19:42.000Z</published>
-    <updated>2018-08-07T04:22:16.995Z</updated>
+    <updated>2018-08-07T04:23:32.541Z</updated>
     
     <summary type="html">
     
@@ -167,13 +215,12 @@
     <link href="http://dax309.club/freeSSRshare.html"/>
     <id>http://dax309.club/freeSSRshare.html</id>
     <published>2018-08-06T06:08:25.000Z</published>
-    <updated>2018-08-07T01:54:42.351Z</updated>
+    <updated>2018-08-07T12:37:34.145Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;通过修改hosts实现上网：&lt;a href=&quot;https://laod.cn/hosts/2018-google-hosts.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;老D&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;免费SSR链接更新网站 ：&lt;a href=&quot;https://free-ss.cf/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://free-ss.cf/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;免费SS/SSR分享： &lt;a href=&quot;https://github.com/gfw-breaker/ssr-accounts&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/gfw-breaker/ssr-accounts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;免费SSR链接更新网站 ：&lt;br&gt;&lt;a href=&quot;https://free-ss.cf/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://free-ss.cf/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://free-ss.site/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://free-ss.site/&lt;/a&gt;&lt;br&gt;免费SS/SSR分享： &lt;a href=&quot;https://github.com/gfw-breaker/ssr-accounts&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/gfw-breaker/ssr-accounts&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;免费SSR分享 ：&lt;a href=&quot;https://www.hinwen.com/32409.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.hinwen.com/32409.html&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;SS&amp;amp;SSR加速圈 ：&lt;a href=&quot;https://plus.google.com/communities/106442142549456855872/stream/62937124-015f-4f9c-81c9-914444653b8a&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Google+社群&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;免费账号分享：&lt;a href=&quot;https://doub.io/sszhfx/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;逗比根据地&lt;/a&gt;&lt;br&gt;
@@ -420,51 +467,6 @@
       <category term="sublime" scheme="http://dax309.club/tags/sublime/"/>
     
       <category term="软件破解" scheme="http://dax309.club/tags/%E8%BD%AF%E4%BB%B6%E7%A0%B4%E8%A7%A3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>解决Sublime Text 3输入法中输入法不跟随光标移动的问题</title>
-    <link href="http://dax309.club/Sublime%20Text%203%E8%BE%93%E5%85%A5%E6%B3%95.html"/>
-    <id>http://dax309.club/Sublime Text 3输入法.html</id>
-    <published>2018-08-03T01:40:28.000Z</published>
-    <updated>2018-08-03T08:03:20.911Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;在Windows环境中上使用Sublime Text会有输入法不跟随光标移动,下面是解决的方法：&lt;/p&gt;
-&lt;h2 id=&quot;老版更新方式&quot;&gt;&lt;a href=&quot;#老版更新方式&quot; class=&quot;headerlink&quot; title=&quot;老版更新方式&quot;&gt;&lt;/a&gt;老版更新方式&lt;/h2&gt;&lt;p&gt;程序员开发了一款IMESupport插件用在Sublime Text上，解决了这个问题。但是也不是很完美，输入过程中还是偶尔会发生输入法不跟随光标移动的问题，但是好了很多。&lt;/p&gt;
-&lt;h3 id=&quot;方式一：手动安装&quot;&gt;&lt;a href=&quot;#方式一：手动安装&quot; class=&quot;headerlink&quot; title=&quot;方式一：手动安装&quot;&gt;&lt;/a&gt;方式一：手动安装&lt;/h3&gt;&lt;p&gt;1.下载地址：GitHub页面：&lt;a href=&quot;https://github.com/chikatoike/IMESupport&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/chikatoike/IMESupport&lt;/a&gt;&lt;br&gt;在GitHub页面下载该项目的ZIP包，解压出来将文件夹名称改为IMESupport，放到Sublime Text 3的插件目录重启软件即可。插件目录可通过菜单-&amp;gt;preferences-&amp;gt;packages来打开。&lt;br&gt;ps：汉化版的是：首选项-&amp;gt;程序包&lt;br&gt;
-    
-    </summary>
-    
-      <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="sublime" scheme="http://dax309.club/tags/sublime/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>github教育包申请</title>
-    <link href="http://dax309.club/github%E6%95%99%E8%82%B2%E5%8C%85%E7%94%B3%E8%AF%B7.html"/>
-    <id>http://dax309.club/github教育包申请.html</id>
-    <published>2018-08-02T13:44:51.000Z</published>
-    <updated>2018-08-03T07:20:04.807Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;  GitHub教育包可以申请网站优惠券，比如我们经常用的服务器提供商DigitalOcean，而且教育包还可以免费用私有仓库（普通用户新建的私有仓库是收费的）&lt;br&gt;今天给大家介绍一下怎么申请GitHub的教育包！&lt;/p&gt;
-&lt;h2 id=&quot;访问申请网址：&quot;&gt;&lt;a href=&quot;#访问申请网址：&quot; class=&quot;headerlink&quot; title=&quot;访问申请网址：&quot;&gt;&lt;/a&gt;访问申请网址：&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://education.github.com/pack&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://education.github.com/pack&lt;/a&gt; &lt;/p&gt;
-    
-    </summary>
-    
-      <category term="分享" scheme="http://dax309.club/categories/%E5%88%86%E4%BA%AB/"/>
-    
-      <category term="hexo个人博客搭建教程" scheme="http://dax309.club/categories/%E5%88%86%E4%BA%AB/hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="分享" scheme="http://dax309.club/tags/%E5%88%86%E4%BA%AB/"/>
     
   </entry>
   
