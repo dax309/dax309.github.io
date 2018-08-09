@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[小米6（sagit）刷机包下载网站]]></title>
     <url>%2FsagitROM.html</url>
-    <content type="text"><![CDATA[安卓方面我不太擅长，但因为目前一直在用小米6，所以把自己的刷机常用网站跟大家分享一波。 sbwml（骚逼汪）网址：https://sagit.sbwml.net/推荐大家到这个服务器下载小米6的包，常用的第三方类原生包都有，都是从XDA上下载的，所以很安全。 XDAXDA是国外的一个类似于手机论坛的网站，安卓大神最多的地方还属XDA,总是为关注手机、平板的机友带来神奇和惊喜。这个论坛基本上是讨论手机系统的。网址：https://forum.xda-developers.com/mi-6/developmentXDA小米6板块：https://forum.xda-developers.com/mi-6/development]]></content>
+    <content type="text"><![CDATA[安卓方面我不太擅长，但因为目前一直在用小米6，所以把自己的刷机常用网站跟大家分享一波。 TWRP for Xiaomi Mi 6刷机REC当然必不可少，我一般用的是TWRP，算是比较好用的吧。官网下载地址：https://twrp.me/xiaomi/xiaomimi6.html蓝奏云：https://www.lanzous.com/i1m1hab推荐大家下载蓝奏云的，这是我小米6常用的工具，官网地址由于在国外，无论打开还是下载都太慢了 sbwml（骚逼汪）网址：https://sagit.sbwml.net/推荐大家到这个服务器下载小米6的包，常用的第三方类原生包都有，都是从XDA上下载的，所以很安全。 XDAXDA是国外的一个类似于手机论坛的网站，安卓大神最多的地方还属XDA,总是为关注手机、平板的机友带来神奇和惊喜。这个论坛基本上是讨论手机系统的。网址：https://forum.xda-developers.com/mi-6/developmentXDA小米6板块：https://forum.xda-developers.com/mi-6/development]]></content>
       <tags>
         <tag>安卓</tag>
       </tags>
@@ -228,8 +228,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>分享</tag>
         <tag>sublime</tag>
+        <tag>分享</tag>
         <tag>软件破解</tag>
       </tags>
   </entry>
