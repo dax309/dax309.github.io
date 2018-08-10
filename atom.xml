@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-09T14:49:21.206Z</updated>
+  <updated>2018-08-10T05:15:43.165Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo错误YAMLException:incomplete explicit mapping pair（hexo新文章不能发布）</title>
+    <link href="http://dax309.club/list29.html"/>
+    <id>http://dax309.club/list29.html</id>
+    <published>2018-08-10T05:07:44.000Z</published>
+    <updated>2018-08-10T05:15:43.165Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;新文章已经写好并保存，但是不能发布，public文件夹没有该文章html文件，这让我百思不得其解，&lt;br&gt;查看错误文档：&lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://dax309.club/tags/hexo/"/>
+    
+      <category term="hexo排错" scheme="http://dax309.club/tags/hexo%E6%8E%92%E9%94%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo错误TypeError:Cannot read property&#39;count&#39;of undefined</title>
+    <link href="http://dax309.club/list30.html"/>
+    <id>http://dax309.club/list30.html</id>
+    <published>2018-08-10T04:55:15.000Z</published>
+    <updated>2018-08-10T05:08:07.269Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;本来我还没打算系统的写一下hexo的部署教程及排错，但是今天添加一个自动推送到百度的小插件时遇到了这个问题，先写下来，以免以后忘记。&lt;br&gt;起因：&lt;br&gt;执行一个-baidu-url-submit-的命令并修改文件，但是在执行hexo g
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://dax309.club/tags/hexo/"/>
+    
+      <category term="hexo排错" scheme="http://dax309.club/tags/hexo%E6%8E%92%E9%94%99/"/>
+    
+  </entry>
   
   <entry>
     <title>小米6（sagit）刷机包下载网站</title>
@@ -403,48 +455,6 @@
       <category term="软件破解" scheme="http://dax309.club/tags/%E8%BD%AF%E4%BB%B6%E7%A0%B4%E8%A7%A3/"/>
     
       <category term="Windows" scheme="http://dax309.club/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【推荐收藏】几款谷歌有关安卓软件推荐【持续更新】</title>
-    <link href="http://dax309.club/%E5%AE%89%E5%8D%93%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.html"/>
-    <id>http://dax309.club/安卓软件推荐.html</id>
-    <published>2018-08-05T02:51:59.000Z</published>
-    <updated>2018-08-09T09:38:35.648Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;谷歌空间&quot;&gt;&lt;a href=&quot;#谷歌空间&quot; class=&quot;headerlink&quot; title=&quot;谷歌空间&quot;&gt;&lt;/a&gt;谷歌空间&lt;/h2&gt;&lt;p&gt;官网：&lt;a href=&quot;http://gplayspace.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://gplayspace.com/&lt;/a&gt;&lt;br&gt;Google空间，一个App完美解决谷歌安装器和网络加速器的全部需求！&lt;br&gt;自动完成谷歌基础服务套件配置，并免费提供网络加速器功能。稳定支持全球Google Play商店内游戏、应用的安装及流畅运行。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="安卓" scheme="http://dax309.club/categories/%E5%AE%89%E5%8D%93/"/>
-    
-    
-      <category term="安卓" scheme="http://dax309.club/tags/%E5%AE%89%E5%8D%93/"/>
-    
-      <category term="谷歌安装器" scheme="http://dax309.club/tags/%E8%B0%B7%E6%AD%8C%E5%AE%89%E8%A3%85%E5%99%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Filmora破解版</title>
-    <link href="http://dax309.club/Filmora%E7%A0%B4%E8%A7%A3.html"/>
-    <id>http://dax309.club/Filmora破解.html</id>
-    <published>2018-08-04T14:23:28.000Z</published>
-    <updated>2018-08-05T08:25:00.254Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;万兴神剪手 Filmora 是一款界面简洁时尚、功能强大的视频编辑软件，它是深圳万兴科技公司近年来的代表作，于2015年4月上线。&lt;br&gt;&lt;img src=&quot;/images/Filmora/1.png&quot;&gt;&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="软件破解" scheme="http://dax309.club/tags/%E8%BD%AF%E4%BB%B6%E7%A0%B4%E8%A7%A3/"/>
-    
-      <category term="Filmora" scheme="http://dax309.club/tags/Filmora/"/>
     
   </entry>
   

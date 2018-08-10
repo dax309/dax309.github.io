@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[hexo错误YAMLException:incomplete explicit mapping pair（hexo新文章不能发布）]]></title>
+    <url>%2Flist29.html</url>
+    <content type="text"><![CDATA[新文章已经写好并保存，但是不能发布，public文件夹没有该文章html文件，这让我百思不得其解，查看错误文档：https://hexo.io/docs/troubleshooting.html最后得出结论：1.确保使用软标签并在冒号后添加空格。2.标题如果有冒号则其后不应该有空格。]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>hexo排错</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo错误TypeError:Cannot read property'count'of undefined]]></title>
+    <url>%2Flist30.html</url>
+    <content type="text"><![CDATA[本来我还没打算系统的写一下hexo的部署教程及排错，但是今天添加一个自动推送到百度的小插件时遇到了这个问题，先写下来，以免以后忘记。起因：执行一个-baidu-url-submit-的命令并修改文件，但是在执行hexo g 的命令就出错了，各种排查都不行，结果在GitHub找到了解决方法。GitHub：https://github.com/hexojs/hexo/issues/2402解决方法：123npm remove hexo-baidu-url-submit //卸载百度submithexo clean //清除缓存hexo g 大神的意思是这个插件直接链接到作者的网站并不显示在README用户指南里。]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>hexo排错</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[小米6（sagit）刷机包下载网站]]></title>
     <url>%2FsagitROM.html</url>
     <content type="text"><![CDATA[安卓方面我不太擅长，但因为目前一直在用小米6，所以把自己的刷机常用网站跟大家分享一波。 TWRP for Xiaomi Mi 6刷机REC当然必不可少，我一般用的是TWRP，算是比较好用的吧。官网下载地址：https://twrp.me/xiaomi/xiaomimi6.html蓝奏云：https://www.lanzous.com/i1m1hab推荐大家下载蓝奏云的，这是我小米6常用的工具，官网地址由于在国外，无论打开还是下载都太慢了 sbwml（骚逼汪）网址：https://sagit.sbwml.net/推荐大家到这个服务器下载小米6的包，常用的第三方类原生包都有，都是从XDA上下载的，所以很安全。 XDAXDA是国外的一个类似于手机论坛的网站，安卓大神最多的地方还属XDA,总是为关注手机、平板的机友带来神奇和惊喜。这个论坛基本上是讨论手机系统的。网址：https://forum.xda-developers.com/mi-6/developmentXDA小米6板块：https://forum.xda-developers.com/mi-6/development]]></content>
@@ -240,8 +258,8 @@
         <category>教程</category>
       </categories>
       <tags>
-        <tag>分享</tag>
         <tag>sublime</tag>
+        <tag>分享</tag>
         <tag>软件破解</tag>
       </tags>
   </entry>
