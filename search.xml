@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[安卓刷机神器TWRP]]></title>
+    <url>%2Flist32.html</url>
+    <content type="text"><![CDATA[注意！刷机有风险，本教程笔者亲自实验没有问题，但所有刷机行为都存在一定风险，请慎重刷机，后果自负!TWRP是国外android爱好者开发的一款工具，全名是：TeamWin Recovery Project。TWRP的主要作用包括刷机，备份，恢复等。修复的时候TWRP是必不可少的工具。是一款知名第三方recovery刷机工具，功能强大，支持触屏操作。 官网下载地址：https://teamw.in/twrp_view_all_devices/在这里面找到自己的机型，对应下载最新版的terp刷入TWRP 2.8的方法很简单，解锁设备后，进入到fastboot模式连接电脑并安装驱程，利用ADB命令“flash recovery”即可刷入。傻瓜式的刷入方法也有，比如一键adb命令。刷入Recovery并不会丢失数据，但以防万一，大家还是先备份好数据再刷吧。]]></content>
+      <tags>
+        <tag>安卓</tag>
+        <tag>刷机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Magisk面具下载]]></title>
+    <url>%2Flist31.html</url>
+    <content type="text"><![CDATA[Magisk可以ROOT您的设备，以及标准的常见修补程序。它包含一个超强大的通用无系统接口，允许无限的潜力！你也可以通过各种模块来实现对你的手机各种定义！ 开源：100％开源，易于在所有 Google支持的平台上构建。 修改系统（供应商）而不篡改分区。 释放您设备的root访问权限。 隐藏Magisk：Google SafetyNet，企业/银行系统完整性检查，游戏篡改检查。 修改或删除任何系统属性，包括只读道具。在线模块回购：从社区驱动的 Magisk模块回购中安装 Magisk 模块。 GitHub地址：https://github.com/topjohnwu/Magisk/releases XDA地址：点击跳转 蓝奏云：Magisk-v16.0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Magisk卸载 使用方法：1.安装twep:https://dax309.club/list32.html2.从TWEP直接卡刷。]]></content>
+      <tags>
+        <tag>安卓</tag>
+        <tag>刷机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[SSR订阅]]></title>
+    <url>%2FSSRdy.html</url>
+    <content type="text"><![CDATA[SSR有一个订阅功能，今天就教大家怎么用这个订阅功能首先需要一个SSR订阅地址 Windows版1.右击小飞机–服务器订阅–SSR服务器订阅设置 2.点击Add，把右方网址替换为SSR订阅地址，点击确定（记得勾选左下角的自动更新）3.也可以手动更新右击小飞机–服务器订阅–更新SSR服务器订阅 安卓版1.点击配置文件的➕，点击第一条添加/升级SSR订阅 2.打开自动更新，点击左下角添加订阅地址，粘贴订阅地址，点击确定 3.点击确定并升级，搞定]]></content>
+      <tags>
+        <tag>ssr</tag>
+        <tag>科学上网</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[hexo错误YAMLException:incomplete explicit mapping pair（hexo新文章不能发布）]]></title>
     <url>%2Flist29.html</url>
     <content type="text"><![CDATA[新文章已经写好并保存，但是不能发布，public文件夹没有该文章html文件，这让我百思不得其解，查看错误文档：https://hexo.io/docs/troubleshooting.html最后得出结论：1.确保使用软标签并在冒号后添加空格。2.标题如果有冒号则其后不应该有空格。]]></content>
@@ -24,6 +51,7 @@
     <content type="text"><![CDATA[安卓方面我不太擅长，但因为目前一直在用小米6，所以把自己的刷机常用网站跟大家分享一波。 TWRP for Xiaomi Mi 6刷机REC当然必不可少，我一般用的是TWRP，算是比较好用的吧。官网下载地址：https://twrp.me/xiaomi/xiaomimi6.html蓝奏云：https://www.lanzous.com/i1m1hab推荐大家下载蓝奏云的，这是我小米6常用的工具，官网地址由于在国外，无论打开还是下载都太慢了 sbwml（骚逼汪）网址：https://sagit.sbwml.net/推荐大家到这个服务器下载小米6的包，常用的第三方类原生包都有，都是从XDA上下载的，所以很安全。 XDAXDA是国外的一个类似于手机论坛的网站，安卓大神最多的地方还属XDA,总是为关注手机、平板的机友带来神奇和惊喜。这个论坛基本上是讨论手机系统的。网址：https://forum.xda-developers.com/mi-6/developmentXDA小米6板块：https://forum.xda-developers.com/mi-6/development]]></content>
       <tags>
         <tag>安卓</tag>
+        <tag>刷机</tag>
       </tags>
   </entry>
   <entry>
@@ -38,7 +66,7 @@
   <entry>
     <title><![CDATA[百度网盘不限速工具分享]]></title>
     <url>%2Flist27.html</url>
-    <content type="text"><![CDATA[不定时更新，如果工具失效，请留言 速盘（推荐）官网：http://www.speedpan.com/使百度网盘保持全速下载免受限速困扰！1 免登陆下载2.搜索资源3.管理我的网盘4.极限下载速度 爱奇艺播放器前段时间的时候突然看到有人说爱奇艺播放器里有个百度云网盘不限速下载功能，基本上就是爱奇艺(百度旗下)为了推广他的”万能播放器”，特地去百度网盘部门搞了个不限速下载的接口集成到了 “爱奇艺万能播放器” 上面。不过这个软件也有缺点，比如：不支持批量下载、不支持文件夹下载等。 官方下载地址：http://app.iqiyi.com/pc/wnplayer/index.html 精简版（免安装，去掉播放器功能）：百度云微云 PanDownload官网：http://pandownload.com/下载地址：http://pandownload.com/1.5.4 这个应该很多人都听过，前段时间因为有人淘宝售卖该软件而导致作者差点停止软件。虽然目前看来作者已经不再更新了(仅在QQ群更新分享，五元入群永久分享)，但是各个功能还是正常能用的，就是偶尔会出现下载线程很少速度很慢的情况。该软件不登陆也能用，所以如果你怕封号、限速，那么就把文件分享后通过分享链接下载资源即可。如果你的账号已经被限速10KB/s了，也可以通过分享链接的方式下载资源，依然高速下载！ ProxyEe Down官网：https://github.com/monkeyWie/proxyee-down 介绍：https://doub.io/dbrj-9/ 这个软件也是前段时间比较火的一个百度网盘不限速下载工具，不过相比其他软件，这软件一开始的安装步骤要麻烦一点点，其他功能都挺好用。 油猴脚本（不推荐）介绍：https://doub.io/wlzy-7/ 之所以不推荐油猴脚本了，也是因为油猴脚本方式获取直链多线程下载，被封号、限速几率较高，当然如果你不登陆账户，只通过分享链接获取下载直链的话倒是不用担心。 然而我刚才又试了下，脚本解析出来的下载直链，速度。。。所以，不推荐！]]></content>
+    <content type="text"><![CDATA[不定时更新，如果工具失效，请留言 安卓百度云盘破解下载：https://www.lanzous.com/i1n38lg 速盘（推荐）官网：http://www.speedpan.com/使百度网盘保持全速下载免受限速困扰！1 免登陆下载2.搜索资源3.管理我的网盘4.极限下载速度 爱奇艺播放器前段时间的时候突然看到有人说爱奇艺播放器里有个百度云网盘不限速下载功能，基本上就是爱奇艺(百度旗下)为了推广他的”万能播放器”，特地去百度网盘部门搞了个不限速下载的接口集成到了 “爱奇艺万能播放器” 上面。不过这个软件也有缺点，比如：不支持批量下载、不支持文件夹下载等。 官方下载地址：http://app.iqiyi.com/pc/wnplayer/index.html 精简版（免安装，去掉播放器功能）：百度云微云 PanDownload官网：http://pandownload.com/下载地址：http://pandownload.com/1.5.4 这个应该很多人都听过，前段时间因为有人淘宝售卖该软件而导致作者差点停止软件。虽然目前看来作者已经不再更新了(仅在QQ群更新分享，五元入群永久分享)，但是各个功能还是正常能用的，就是偶尔会出现下载线程很少速度很慢的情况。该软件不登陆也能用，所以如果你怕封号、限速，那么就把文件分享后通过分享链接下载资源即可。如果你的账号已经被限速10KB/s了，也可以通过分享链接的方式下载资源，依然高速下载！ ProxyEe Down官网：https://github.com/monkeyWie/proxyee-down 介绍：https://doub.io/dbrj-9/ 这个软件也是前段时间比较火的一个百度网盘不限速下载工具，不过相比其他软件，这软件一开始的安装步骤要麻烦一点点，其他功能都挺好用。 油猴脚本（不推荐）介绍：https://doub.io/wlzy-7/ 之所以不推荐油猴脚本了，也是因为油猴脚本方式获取直链多线程下载，被封号、限速几率较高，当然如果你不登陆账户，只通过分享链接获取下载直链的话倒是不用担心。 然而我刚才又试了下，脚本解析出来的下载直链，速度。。。所以，不推荐！]]></content>
       <tags>
         <tag>分享</tag>
       </tags>
@@ -63,6 +91,7 @@
       </categories>
       <tags>
         <tag>分享</tag>
+        <tag>科学上网</tag>
       </tags>
   </entry>
   <entry>
@@ -259,8 +288,8 @@
       </categories>
       <tags>
         <tag>分享</tag>
-        <tag>软件破解</tag>
         <tag>sublime</tag>
+        <tag>软件破解</tag>
       </tags>
   </entry>
   <entry>

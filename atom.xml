@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-10T05:15:43.165Z</updated>
+  <updated>2018-08-13T09:34:58.980Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -15,6 +15,79 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>安卓刷机神器TWRP</title>
+    <link href="http://dax309.club/list32.html"/>
+    <id>http://dax309.club/list32.html</id>
+    <published>2018-08-13T09:17:53.000Z</published>
+    <updated>2018-08-13T09:34:58.980Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;font color=&quot;#FF0000&quot;&gt;注意！刷机有风险，本教程笔者亲自实验没有问题，但所有刷机行为都存在一定风险，请慎重刷机，后果自负!&lt;/font&gt;&lt;br&gt;TWRP是国外android爱好者开发的一款工具，全名是：TeamWin Recovery
+        
+      
+    
+    </summary>
+    
+    
+      <category term="安卓" scheme="http://dax309.club/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="刷机" scheme="http://dax309.club/tags/%E5%88%B7%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Magisk面具下载</title>
+    <link href="http://dax309.club/list31.html"/>
+    <id>http://dax309.club/list31.html</id>
+    <published>2018-08-13T08:26:12.000Z</published>
+    <updated>2018-08-13T09:40:48.321Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Magisk可以ROOT您的设备，以及标准的常见修补程序。&lt;br&gt;它包含一个超强大的通用无系统接口，允许无限的潜力！你也可以通过各种模块来实现对你的手机各种定义！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;开源：&lt;br&gt;100％开源，易于在所有 Google支持的平台上构建。&lt;/li&gt;
+&lt;li&gt;修改系统（供应商）而不篡改分区。&lt;/li&gt;
+&lt;li&gt;释放您设备的root访问权限。&lt;/li&gt;
+&lt;li&gt;隐藏Magisk：Google SafetyNet，企业/银行系统完整性检查，游戏篡改检查。&lt;/li&gt;
+&lt;li&gt;修改或删除任何系统属性，包括只读道具。&lt;br&gt;在线模块回购：从社区驱动的 Magisk模块回购中&lt;br&gt;安装 Magisk 模块。
+    
+    </summary>
+    
+    
+      <category term="安卓" scheme="http://dax309.club/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="刷机" scheme="http://dax309.club/tags/%E5%88%B7%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SSR订阅</title>
+    <link href="http://dax309.club/SSRdy.html"/>
+    <id>http://dax309.club/SSRdy.html</id>
+    <published>2018-08-13T02:53:53.000Z</published>
+    <updated>2018-08-13T08:25:19.653Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;SSR有一个订阅功能，今天就教大家怎么用这个订阅功能&lt;br&gt;首先需要一个SSR订阅地址&lt;/p&gt;
+&lt;h2 id=&quot;Windows版&quot;&gt;&lt;a href=&quot;#Windows版&quot; class=&quot;headerlink&quot; title=&quot;Windows版&quot;&gt;&lt;/a&gt;Windows版&lt;/h2&gt;&lt;p&gt;1.右击小飞机–服务器订阅–SSR服务器订阅设置&lt;br&gt;&lt;img src=&quot;/images/ssr/23.png&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="ssr" scheme="http://dax309.club/tags/ssr/"/>
+    
+      <category term="科学上网" scheme="http://dax309.club/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo错误YAMLException:incomplete explicit mapping pair（hexo新文章不能发布）</title>
@@ -73,7 +146,7 @@
     <link href="http://dax309.club/sagitROM.html"/>
     <id>http://dax309.club/sagitROM.html</id>
     <published>2018-08-09T13:45:41.000Z</published>
-    <updated>2018-08-09T14:49:21.206Z</updated>
+    <updated>2018-08-13T09:21:43.872Z</updated>
     
     <summary type="html">
     
@@ -84,6 +157,8 @@
     
     
       <category term="安卓" scheme="http://dax309.club/tags/%E5%AE%89%E5%8D%93/"/>
+    
+      <category term="刷机" scheme="http://dax309.club/tags/%E5%88%B7%E6%9C%BA/"/>
     
   </entry>
   
@@ -112,11 +187,12 @@
     <link href="http://dax309.club/list27.html"/>
     <id>http://dax309.club/list27.html</id>
     <published>2018-08-07T12:00:55.000Z</published>
-    <updated>2018-08-07T12:49:01.755Z</updated>
+    <updated>2018-08-13T09:50:18.881Z</updated>
     
     <summary type="html">
     
       &lt;p&gt;不定时更新，如果工具失效，请留言&lt;/p&gt;
+&lt;h2 id=&quot;安卓百度云盘破解&quot;&gt;&lt;a href=&quot;#安卓百度云盘破解&quot; class=&quot;headerlink&quot; title=&quot;安卓百度云盘破解&quot;&gt;&lt;/a&gt;安卓百度云盘破解&lt;/h2&gt;&lt;p&gt;下载：&lt;a href=&quot;https://www.lanzous.com/i1n38lg&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.lanzous.com/i1n38lg&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;速盘（推荐）&quot;&gt;&lt;a href=&quot;#速盘（推荐）&quot; class=&quot;headerlink&quot; title=&quot;速盘（推荐）&quot;&gt;&lt;/a&gt;速盘（推荐）&lt;/h2&gt;&lt;p&gt;官网：&lt;a href=&quot;http://www.speedpan.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.speedpan.com/&lt;/a&gt;&lt;br&gt;使百度网盘保持全速下载免受限速困扰！&lt;br&gt;1 免登陆下载&lt;br&gt;2.搜索资源&lt;br&gt;3.管理我的网盘&lt;br&gt;4.极限下载速度&lt;br&gt;
     
     </summary>
@@ -152,7 +228,7 @@
     <link href="http://dax309.club/list25.html"/>
     <id>http://dax309.club/list25.html</id>
     <published>2018-08-07T02:53:34.000Z</published>
-    <updated>2018-08-07T12:49:04.538Z</updated>
+    <updated>2018-08-13T06:26:24.923Z</updated>
     
     <summary type="html">
     
@@ -165,6 +241,8 @@
     
     
       <category term="分享" scheme="http://dax309.club/tags/%E5%88%86%E4%BA%AB/"/>
+    
+      <category term="科学上网" scheme="http://dax309.club/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
     
   </entry>
   
@@ -387,74 +465,6 @@
     
       <category term="攒机指南之硬件简介" scheme="http://dax309.club/categories/%E6%94%92%E6%9C%BA%E6%8C%87%E5%8D%97%E4%B9%8B%E7%A1%AC%E4%BB%B6%E7%AE%80%E4%BB%8B/"/>
     
-    
-      <category term="Windows" scheme="http://dax309.club/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>了解电脑硬件-CPU</title>
-    <link href="http://dax309.club/learnPC-CPU.html"/>
-    <id>http://dax309.club/learnPC-CPU.html</id>
-    <published>2018-08-05T09:41:15.000Z</published>
-    <updated>2018-08-05T12:37:14.731Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;CPU是电脑的大脑，负责处理所有数据。通过一台电脑的CPU，可以大致看出这台电脑的定位、用途。也只有挑了CPU，才能更好地挑主板、CPU散热器、内存等其他部件。&lt;/p&gt;
-&lt;p&gt;参考文章：&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzI1MTIxODg5MA==&amp;mid=2652639811&amp;idx=1&amp;sn=d8aabe341bdc1e74401d661f96c0b172&amp;scene=19#wechat_redirect&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;知老汤乎&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;转载请注明出处：&lt;a href=&quot;https://dax309.club/learnPC-CPU.html&quot;&gt;https://dax309.club/learnPC-CPU.html&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&quot;区别CPU及其性能&quot;&gt;&lt;a href=&quot;#区别CPU及其性能&quot; class=&quot;headerlink&quot; title=&quot;区别CPU及其性能&quot;&gt;&lt;/a&gt;区别CPU及其性能&lt;/h2&gt;&lt;h3 id=&quot;核心数量&quot;&gt;&lt;a href=&quot;#核心数量&quot; class=&quot;headerlink&quot; title=&quot;核心数量&quot;&gt;&lt;/a&gt;核心数量&lt;/h3&gt;&lt;p&gt;核心（Core）又称为内核，是 CPU 最重要的组成部分，CPU 所有的计算，接受与存储命令，处理数据都由核心执行。&lt;/p&gt;
-&lt;h3 id=&quot;主频&quot;&gt;&lt;a href=&quot;#主频&quot; class=&quot;headerlink&quot; title=&quot;主频&quot;&gt;&lt;/a&gt;主频&lt;/h3&gt;&lt;p&gt;主频即 CPU 内数字脉冲信号震荡的频率，单位是赫兹（Hz），主要用来表示CPU的运算速度。目前的CPU主频都在十亿（1000000000）赫兹以上，因此单位通常是 GHz。&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="攒机指南之硬件简介" scheme="http://dax309.club/categories/%E6%94%92%E6%9C%BA%E6%8C%87%E5%8D%97%E4%B9%8B%E7%A1%AC%E4%BB%B6%E7%AE%80%E4%BB%8B/"/>
-    
-    
-      <category term="Windows" scheme="http://dax309.club/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>了解电脑硬件-整体</title>
-    <link href="http://dax309.club/learnPC.html"/>
-    <id>http://dax309.club/learnPC.html</id>
-    <published>2018-08-05T09:11:29.000Z</published>
-    <updated>2018-08-05T09:39:03.302Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;无论是买一体机还是组装机，都需要对电脑硬件有一些基本了解，这样我们在选购的时候才能做到从容不迫，从需要的角度去选择最适合自己的那一台。&lt;br&gt;一台电脑需要的基本部件有：机箱，显示器，键盘和鼠标，主板，内存，CPU，显卡，声卡，硬盘，光驱，电源等。&lt;/p&gt;
-&lt;h2 id=&quot;CPU&quot;&gt;&lt;a href=&quot;#CPU&quot; class=&quot;headerlink&quot; title=&quot;CPU&quot;&gt;&lt;/a&gt;CPU&lt;/h2&gt;&lt;p&gt;CPU就是中央处理器,是电脑的计算中心和控制中心,是电脑中最重要的部件.主要负责计算电脑中的各种数据和控制电脑部件的合作运行。&lt;/p&gt;
-&lt;p&gt;CPU最重要的两个数据时频率和核心数目,频率就是平时说的多少GHz,比如2.1GHz数据越大电脑速度越快。核心数，物理上指的是真实存在的CPU处理器的个数，核心数越多，电脑速度越快。&lt;br&gt;
-    
-    </summary>
-    
-      <category term="攒机指南之硬件简介" scheme="http://dax309.club/categories/%E6%94%92%E6%9C%BA%E6%8C%87%E5%8D%97%E4%B9%8B%E7%A1%AC%E4%BB%B6%E7%AE%80%E4%BB%8B/"/>
-    
-    
-      <category term="Windows" scheme="http://dax309.club/tags/Windows/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Windows 10 激活工具HWIDGEN</title>
-    <link href="http://dax309.club/windows10%20tool%20HWIDGEN.html"/>
-    <id>http://dax309.club/windows10 tool HWIDGEN.html</id>
-    <published>2018-08-05T08:49:34.000Z</published>
-    <updated>2018-08-05T09:04:31.954Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;日前在国外科技论坛有大神发布名为HWIDGEN激活工具，该激活工具几乎秒杀所有版本Windows 10系统。&lt;br&gt;我们知道Windows 10现在激活后会带有数字权利，数字权利可以在我们重装系统后自动激活无需再次激活。&lt;br&gt;而HWIDGEN激活工具正是直接获取数字激活权利进行永久激活，此方法激活后用户下次安装同样无需激活&lt;br&gt;
-    
-    </summary>
-    
-      <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="软件破解" scheme="http://dax309.club/tags/%E8%BD%AF%E4%BB%B6%E7%A0%B4%E8%A7%A3/"/>
     
       <category term="Windows" scheme="http://dax309.club/tags/Windows/"/>
     
