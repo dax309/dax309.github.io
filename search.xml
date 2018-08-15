@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Android 刷Gapps跳过开机引导]]></title>
+    <url>%2Flist34.html</url>
+    <content type="text"><![CDATA[断网这个Gapps的开机引导是需要连网进行的，默认的情况下如果不连网的情况下是会自动跳过的。但是许多系统在默认情况下Wifi和数据是会自动打开，就算把卡取了，也还会有Wifi，一样无法跳过。对此，可选择先不刷Gapps，进入系统后将Wifi的数据关闭，再刷Gapps，此方法有一定弊端，有可能会导致Gapps某些应用发生某些玄学问题。。。。。 顺时针点屏幕四角这可能是最玄学的一个方法了，据传连点屏幕四角就可跳过此引导（顺时针方向，从左上角开始）。但是！！！但是！！！时灵时不灵。。。。。 更改USER_SETUP_COMPLETE和DEVICE_PROVISIONED在开机情况下，将手机连上电脑，使用adb工具来修改USER_SETUP_COMPLETE和DEVICE_PROVISIONED的值。具体操作如下：1.打开命令行。2.在WINDOWS下，如果未将adb.exe文件所在路径添加至环境变量中，则需要在adb.exe文件所在目录下打开命令行，而后将命令中的adb更改为adb.exe。3.输入命令12adb shell settings put secure user_setup_complete 1adb shell settings put global device_provisioned 1 重启，搞定。 注意！上述命令运行错误时会有提示，而成功则没有！]]></content>
+      <tags>
+        <tag>安卓</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[OneIndex搭建OneDrive直链下载]]></title>
+    <url>%2Flist33.html</url>
+    <content type="text"><![CDATA[本文参考教程：https://www.zrj96.com/post-718.html 功能不用服务器空间，不走服务器流量， 直接列出OneDrive目录，文件直链下载。 准备1、PHP空间，PHP 5.6+ 打开curl支持，推荐使用Apache 2、onedrive business 账号 (企业版或教育版/工作或学校帐户) 3、oneindex 程序 安装以下在网站根目录执行 1234567891011121314151617181920git clone -b master https://github.com/donwa/oneindex.git tmp &amp;&amp; mv tmp/.git . &amp;&amp; rm -rf tmp &amp;&amp; git reset --hardchmod -R 755 config/chmod -R 755 config/base.phpchmod -R 755 cache/chown -R www:www *``` ## 计划使用[可选]推荐配置，非必需。后台定时刷新缓存，可增加前台访问的速度``` bash# 每小时刷新一次token0 * * * * /具体路径/php /程序具体路径/one.php token:refresh# 每十分钟后台刷新一遍缓存*/10 * * * * /具体路径/php /程序具体路径/one.php cache:refresh 特殊文件实现功能README.md、HEAD.md 、 .password特殊文件使用 可以参考https://github.com/donwa/oneindex/tree/files 在文件夹底部添加说明: 在onedrive的文件夹中添加README.md文件，使用markdown语法。 在文件夹头部添加说明: 在onedrive的文件夹中添加HEAD.md 文件，使用markdown语法。 加密文件夹: 在onedrive的文件夹中添加.password文件，填入密码，密码不能为空。 直接输出网页: 在onedrive的文件夹中添加index.html 文件，程序会直接输出网页而不列目录。配合 文件展示设置-直接输出 效果更佳 命令行功能仅能在php cli模式下运行清除缓存: 1php one.php cache:clear 刷新缓存: 1php one.php cache:refresh 刷新令牌: 1php one.php token:refresh 上传文件: 1php one.php upload:file 本地文件 [onedrive文件] 上传文件夹: 1php one.php upload:folder 本地文件夹 [onedrive文件夹] 例如：1234567891011//上传demo.zip 到onedrive 根目录 php one.php upload:file demo.zip //上传demo.zip 到onedrive /test/目录 php one.php upload:file demo.zip /test/ //上传demo.zip 到onedrive /test/目录并命名为 d.zip php one.php upload:file demo.zip /test/d.zip //上传up/ 到onedrive /test/ php one.php upload:file up/ /test/ 参考文档：https://github.com/donwa/oneindex]]></content>
+      <tags>
+        <tag>教程</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[安卓刷机神器TWRP]]></title>
     <url>%2Flist32.html</url>
     <content type="text"><![CDATA[注意！刷机有风险，本教程笔者亲自实验没有问题，但所有刷机行为都存在一定风险，请慎重刷机，后果自负!TWRP是国外android爱好者开发的一款工具，全名是：TeamWin Recovery Project。TWRP的主要作用包括刷机，备份，恢复等。修复的时候TWRP是必不可少的工具。是一款知名第三方recovery刷机工具，功能强大，支持触屏操作。 官网下载地址：https://teamw.in/twrp_view_all_devices/在这里面找到自己的机型，对应下载最新版的terp刷入TWRP 2.8的方法很简单，解锁设备后，进入到fastboot模式连接电脑并安装驱程，利用ADB命令“flash recovery”即可刷入。傻瓜式的刷入方法也有，比如一键adb命令。刷入Recovery并不会丢失数据，但以防万一，大家还是先备份好数据再刷吧。]]></content>
@@ -288,8 +304,8 @@
       </categories>
       <tags>
         <tag>分享</tag>
-        <tag>sublime</tag>
         <tag>软件破解</tag>
+        <tag>sublime</tag>
       </tags>
   </entry>
   <entry>

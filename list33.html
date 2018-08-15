@@ -60,7 +60,7 @@
 
 
 
-  <meta name="keywords" content="DigitalOcean,ssr," />
+  <meta name="keywords" content="教程," />
 
 
 
@@ -73,32 +73,20 @@
 
 
 
-<meta name="description" content="DigitalOcean是一家成立于2012年的总部设置在纽约的云主机商家，采用KVM虚拟，配置高性能的SSD做储存，加上服务器配备的是1000M端口，以512M内存为起点，月付最低低至5美元！在之前我们已经交大家怎么申请Github教育包了，从而已经有DigitalOcean一个50$的优惠券（没有看到教程的小伙伴可以去回顾一下：传送门  ）。再加上下面的优惠链接另外获得10$，至少有一年免费使">
-<meta name="keywords" content="DigitalOcean,ssr">
+<meta name="description" content="本文参考教程：https://www.zrj96.com/post-718.html 功能不用服务器空间，不走服务器流量， 直接列出OneDrive目录，文件直链下载。 准备1、PHP空间，PHP 5.6+ 打开curl支持，推荐使用Apache 2、onedrive business 账号 (企业版或教育版/工作或学校帐户) 3、oneindex 程序">
+<meta name="keywords" content="教程">
 <meta property="og:type" content="article">
-<meta property="og:title" content="搭建SSR科学上网（利用DigitalOcean服务器）">
-<meta property="og:url" content="http://dax309.club/SSR搭建.html">
+<meta property="og:title" content="OneIndex搭建OneDrive直链下载">
+<meta property="og:url" content="http://dax309.club/list33.html">
 <meta property="og:site_name" content="DAX的个人博客">
-<meta property="og:description" content="DigitalOcean是一家成立于2012年的总部设置在纽约的云主机商家，采用KVM虚拟，配置高性能的SSD做储存，加上服务器配备的是1000M端口，以512M内存为起点，月付最低低至5美元！在之前我们已经交大家怎么申请Github教育包了，从而已经有DigitalOcean一个50$的优惠券（没有看到教程的小伙伴可以去回顾一下：传送门  ）。再加上下面的优惠链接另外获得10$，至少有一年免费使">
+<meta property="og:description" content="本文参考教程：https://www.zrj96.com/post-718.html 功能不用服务器空间，不走服务器流量， 直接列出OneDrive目录，文件直链下载。 准备1、PHP空间，PHP 5.6+ 打开curl支持，推荐使用Apache 2、onedrive business 账号 (企业版或教育版/工作或学校帐户) 3、oneindex 程序">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:image" content="http://dax309.club/images/ssr/1.png">
-<meta property="og:image" content="http://dax309.club/images/ssr/2.jpg">
-<meta property="og:image" content="http://dax309.club/images/ssr/3.jpg">
-<meta property="og:image" content="http://dax309.club/images/ssr/4.png">
-<meta property="og:image" content="http://dax309.club/images/ssr/5.png">
-<meta property="og:image" content="http://dax309.club/images/ssr/6.png">
-<meta property="og:image" content="http://dax309.club/images/ssr/7.png">
-<meta property="og:image" content="http://dax309.club/images/ssr/8.jpg">
-<meta property="og:image" content="http://dax309.club/images/ssr/11.jpg">
-<meta property="og:image" content="http://dax309.club/images/ssr/9.png">
-<meta property="og:image" content="http://dax309.club/images/ssr/12.png">
-<meta property="og:image" content="http://dax309.club/images/ssr/10.png">
-<meta property="og:image" content="http://dax309.club/images/ssr/13.png">
-<meta property="og:updated_time" content="2018-08-07T12:48:54.356Z">
+<meta property="og:image" content="http://dax309.club/images/OneDrive/install.gif">
+<meta property="og:updated_time" content="2018-08-14T12:35:44.720Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="搭建SSR科学上网（利用DigitalOcean服务器）">
-<meta name="twitter:description" content="DigitalOcean是一家成立于2012年的总部设置在纽约的云主机商家，采用KVM虚拟，配置高性能的SSD做储存，加上服务器配备的是1000M端口，以512M内存为起点，月付最低低至5美元！在之前我们已经交大家怎么申请Github教育包了，从而已经有DigitalOcean一个50$的优惠券（没有看到教程的小伙伴可以去回顾一下：传送门  ）。再加上下面的优惠链接另外获得10$，至少有一年免费使">
-<meta name="twitter:image" content="http://dax309.club/images/ssr/1.png">
+<meta name="twitter:title" content="OneIndex搭建OneDrive直链下载">
+<meta name="twitter:description" content="本文参考教程：https://www.zrj96.com/post-718.html 功能不用服务器空间，不走服务器流量， 直接列出OneDrive目录，文件直链下载。 准备1、PHP空间，PHP 5.6+ 打开curl支持，推荐使用Apache 2、onedrive business 账号 (企业版或教育版/工作或学校帐户) 3、oneindex 程序">
+<meta name="twitter:image" content="http://dax309.club/images/OneDrive/install.gif">
 
 
 
@@ -128,7 +116,7 @@
 
 
 
-  <link rel="canonical" href="http://dax309.club/SSR搭建.html"/>
+  <link rel="canonical" href="http://dax309.club/list33.html"/>
 
 
 
@@ -144,7 +132,7 @@
     })();
 </script>
 
-  <title>搭建SSR科学上网（利用DigitalOcean服务器） | DAX的个人博客</title>
+  <title>OneIndex搭建OneDrive直链下载 | DAX的个人博客</title>
   
 
 
@@ -341,7 +329,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://dax309.club/SSR搭建.html">
+    <link itemprop="mainEntityOfPage" href="http://dax309.club/list33.html">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="DAX">
@@ -358,7 +346,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">搭建SSR科学上网（利用DigitalOcean服务器）</h1>
+          <h1 class="post-title" itemprop="name headline">OneIndex搭建OneDrive直链下载</h1>
         
 
         <div class="post-meta">
@@ -373,8 +361,8 @@
               
                 <span class="post-meta-item-text">发表于</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-08-06T10:24:03+08:00">
-                2018-08-06
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-08-14T19:21:35+08:00">
+                2018-08-14
               </time>
             
 
@@ -389,35 +377,13 @@
               
                 <span class="post-meta-item-text">更新于&#58;</span>
               
-              <time title="更新于" itemprop="dateModified" datetime="2018-08-07T20:48:54+08:00">
-                2018-08-07
+              <time title="更新于" itemprop="dateModified" datetime="2018-08-14T20:35:44+08:00">
+                2018-08-14
               </time>
             
           </span>
 
           
-            <span class="post-category" >
-            
-              <span class="post-meta-divider">|</span>
-            
-              <span class="post-meta-item-icon">
-                <i class="fa fa-folder-o"></i>
-              </span>
-              
-                <span class="post-meta-item-text">分类于</span>
-              
-              
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/categories/教程/" itemprop="url" rel="index">
-                    <span itemprop="name">教程</span>
-                  </a>
-                </span>
-
-                
-                
-              
-            </span>
-          
 
           
             
@@ -425,7 +391,7 @@
 
           
           
-             <span id="/SSR搭建.html" class="leancloud_visitors" data-flag-title="搭建SSR科学上网（利用DigitalOcean服务器）">
+             <span id="/list33.html" class="leancloud_visitors" data-flag-title="OneIndex搭建OneDrive直链下载">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -456,21 +422,36 @@
       
 
       
-        <p>DigitalOcean是一家成立于2012年的总部设置在纽约的云主机商家，采用KVM虚拟，配置高性能的SSD做储存，加上服务器配备的是1000M端口，以512M内存为起点，月付最低低至5美元！<br>在之前我们已经交大家怎么申请Github教育包了，从而已经有DigitalOcean一个50$的优惠券（没有看到教程的小伙伴可以去回顾一下：<a href="https://dax309.club/github%E6%95%99%E8%82%B2%E5%8C%85%E7%94%B3%E8%AF%B7.html">传送门</a>  ）。再加上下面的优惠链接另外获得10$，至少有一年免费使用时间。</p>
-<h2 id="注册账号"><a href="#注册账号" class="headerlink" title="注册账号"></a>注册账号</h2><p>点击 <a href="https://m.do.co/c/0317491612b6" target="_blank" rel="noopener">DigitalOcean优惠链接</a>进入注册页面</p>
-<p><font size="5" color="#FF0000">切记要从本链接点击注册，不然没有10$优惠券</font><br><a id="more"></a><br><img src="/images/ssr/1.png"></p>
-<h2 id="邮箱验证"><a href="#邮箱验证" class="headerlink" title="邮箱验证"></a>邮箱验证</h2><p>注册成功后会给你的注册邮箱发送验证邮件，打开邮箱点击验证网址进行验证。</p>
-<h2 id="支付方式验证"><a href="#支付方式验证" class="headerlink" title="支付方式验证"></a>支付方式验证</h2><p>邮箱验证成功后，自动登录到digitalocean设置里的“Billing”页面，验证您的付款方法，验证有两种方式，一是绑定信用卡，二是通过paypal向账户充值5美元。个人建议不要绑定信用卡，通过PayPal付款。因为通过paypal充值的方法验证账户的好处是如果有纠纷可以通过paypal纠纷申请退款，并且paypal资金安全性要好于信用卡绑定。绑定信用卡具体如下图：<br><img src="/images/ssr/2.jpg"><br>paypal付款操作流程如图：<br><img src="/images/ssr/3.jpg"><br>付款完成，就可以进入首页了。</p>
-<h2 id="创建主机"><a href="#创建主机" class="headerlink" title="创建主机"></a>创建主机</h2><p>1.进入首页，点击如图红框所示的Droplets，创建主机<br><img src="/images/ssr/4.png"><br>2.这里我们默认选择ubantu的系统就可以<br><img src="/images/ssr/5.png"><br>3.大小选择如图所示的5$/月的就足够了<br><img src="/images/ssr/6.png"><br>4.机房我建议选择加拿大的机房，最近几年由于国人搭服务器激增，本来最合适的旧金山机房也变得慢了，这个可以自行选择，测试延迟看最合适的机房是哪个。<br><img src="/images/ssr/7.png"><br>5.点击最下面的创建按钮即可。</p>
-<h2 id="主控台简介"><a href="#主控台简介" class="headerlink" title="主控台简介"></a>主控台简介</h2><p>控制界面左边有一排按钮。<br>1.图表详细显示了cpu、网络流量、磁盘的运行情况！<br>2.右上角是服务器的开关</p>
-<p><font size="5" color="#FF0000">注意，只把开关关闭是不能停止收费的，只有彻底摧毁才可以停止计时收费！</font><br><img src="/images/ssr/8.jpg"><br>3.摧毁主机<br>新建主机数量是没有限制的，可以同时创建多台，但是每台按$0.007/hr也就是$5/月的方式收费。<br>如果服务器被墙了，可以摧毁主机重新建一个。<br>如图点击Destroy即可销毁该主机<br><img src="/images/ssr/11.jpg"></p>
-<h2 id="ssr搭建"><a href="#ssr搭建" class="headerlink" title="ssr搭建"></a>ssr搭建</h2><p>1.当主机建好以后会给我们发邮件，包括IP和密码<br>2.我们需要一个工具git，下载地址：<a href="https://git-scm.com/downloads" target="_blank" rel="noopener">https://git-scm.com/downloads</a><br>3.安装好后打开，依次输入<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ ssh root@IP    //IP为你的主机IP地址</span><br></pre></td></tr></table></figure></p>
-<p>出现下图输入 yes，之后是输入密码，输入新密码，确认新密码<br><img src="/images/ssr/9.png"><br>4.执行更新软件命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ apt-get update  //更新服务器</span><br></pre></td></tr></table></figure></p>
-<p>5.一键部署SSR<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh &amp;&amp; chmod +x ssr.sh &amp;&amp; bash ssr.sh</span><br></pre></td></tr></table></figure></p>
-<p>然后出现下图,输入1开始安装<br><img src="/images/ssr/12.png"><br>6.接下来设置相关信息，照图走就行了，或者按回车键，直接就全部默认选项<br><img src="/images/ssr/10.png"><br>设置完成后既可看到自己的信息，复制SSR链接到APP即可。(最近搭建好并BBR加速后发现链接的IP地址有可能被改变为VPS＿IP，手动把配置改回IP地址就好)<br><img src="/images/ssr/13.png"><br>如果下次还想调出此界面，输入<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">bash ssr.sh</span><br></pre></td></tr></table></figure></p>
-<h2 id="谷歌BBR加速"><a href="#谷歌BBR加速" class="headerlink" title="谷歌BBR加速"></a>谷歌BBR加速</h2><p>依次执行一下命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh</span><br><span class="line"></span><br><span class="line">chmod +x bbr.sh</span><br><span class="line"></span><br><span class="line">./bbr.sh</span><br></pre></td></tr></table></figure></p>
-<p>之后一直按回车确认即可，好了，到这里，SSR安装大工搞成。</p>
-<h2 id="SSR软件"><a href="#SSR软件" class="headerlink" title="SSR软件"></a>SSR软件</h2><p>windows ssr客户端：<a href="https://github.com/shadowsocksr-backup/shadowsocksr-csharp/releases" target="_blank" rel="noopener">下载地址</a><br>mac ssr客户端：<a href="https://github.com/shadowsocksr-backup/ShadowsocksX-NG/releases" target="_blank" rel="noopener">下载地址</a><br>android 客户端：<a href="https://github.com/shadowsocksr-backup/shadowsocksr-android/releases" target="_blank" rel="noopener">下载地址</a></p>
+        <p>本文参考教程：<a href="https://www.zrj96.com/post-718.html" target="_blank" rel="noopener">https://www.zrj96.com/post-718.html</a></p>
+<h2 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h2><p>不用服务器空间，不走服务器流量，</p>
+<p>直接列出OneDrive目录，文件直链下载。</p>
+<h2 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h2><p>1、PHP空间，PHP 5.6+ 打开curl支持，推荐使用Apache</p>
+<p>2、onedrive business 账号 (企业版或教育版/工作或学校帐户)</p>
+<p>3、oneindex 程序<br><a id="more"></a></p>
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p><img src="/images/OneDrive/install.gif"><br>以下在网站根目录执行</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br></pre></td><td class="code"><pre><span class="line">git <span class="built_in">clone</span> -b master https://github.com/donwa/oneindex.git tmp &amp;&amp; mv tmp/.git . &amp;&amp; rm -rf tmp &amp;&amp; git reset --hard</span><br><span class="line"></span><br><span class="line">chmod -R 755 config/</span><br><span class="line"></span><br><span class="line">chmod -R 755 config/base.php</span><br><span class="line"></span><br><span class="line">chmod -R 755 cache/</span><br><span class="line"></span><br><span class="line">chown -R www:www *</span><br><span class="line">``` </span><br><span class="line"></span><br><span class="line"><span class="comment">## 计划使用</span></span><br><span class="line">[可选]推荐配置，非必需。后台定时刷新缓存，可增加前台访问的速度</span><br><span class="line"></span><br><span class="line">``` bash</span><br><span class="line"><span class="comment"># 每小时刷新一次token</span></span><br><span class="line">0 * * * * /具体路径/php /程序具体路径/one.php token:refresh</span><br><span class="line"></span><br><span class="line"><span class="comment"># 每十分钟后台刷新一遍缓存</span></span><br><span class="line">*/10 * * * * /具体路径/php /程序具体路径/one.php cache:refresh</span><br></pre></td></tr></table></figure>
+<h2 id="特殊文件实现功能"><a href="#特殊文件实现功能" class="headerlink" title="特殊文件实现功能"></a>特殊文件实现功能</h2><p>README.md、HEAD.md 、 .password特殊文件使用</p>
+<p>可以参考<a href="https://github.com/donwa/oneindex/tree/files" target="_blank" rel="noopener">https://github.com/donwa/oneindex/tree/files</a></p>
+<p>在文件夹底部添加说明:  </p>
+<p>在onedrive的文件夹中添加README.md文件，使用markdown语法。</p>
+<p>在文件夹头部添加说明:  </p>
+<p>在onedrive的文件夹中添加HEAD.md 文件，使用markdown语法。  </p>
+<p>加密文件夹:  </p>
+<p>在onedrive的文件夹中添加.password文件，填入密码，密码不能为空。  </p>
+<p>直接输出网页:</p>
+<p>在onedrive的文件夹中添加index.html 文件，程序会直接输出网页而不列目录。<br>配合 文件展示设置-直接输出 效果更佳</p>
+<h2 id="命令行功能"><a href="#命令行功能" class="headerlink" title="命令行功能"></a>命令行功能</h2><p>仅能在php cli模式下运行<br>清除缓存:  </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">php one.php cache:clear</span><br></pre></td></tr></table></figure>
+<p>刷新缓存:  </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">php one.php cache:refresh</span><br></pre></td></tr></table></figure>
+<p>刷新令牌:  </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">php one.php token:refresh</span><br></pre></td></tr></table></figure>
+<p>上传文件:  </p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">php one.php upload:file 本地文件 [onedrive文件]</span><br></pre></td></tr></table></figure>
+<p>上传文件夹:</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">php one.php upload:folder 本地文件夹 [onedrive文件夹]</span><br></pre></td></tr></table></figure>
+<p>例如：<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">//上传demo.zip 到onedrive 根目录  </span><br><span class="line">php one.php upload:file demo.zip  </span><br><span class="line"></span><br><span class="line">//上传demo.zip 到onedrive /<span class="built_in">test</span>/目录  </span><br><span class="line">php one.php upload:file demo.zip /<span class="built_in">test</span>/  </span><br><span class="line"></span><br><span class="line">//上传demo.zip 到onedrive /<span class="built_in">test</span>/目录并命名为 d.zip  </span><br><span class="line">php one.php upload:file demo.zip /<span class="built_in">test</span>/d.zip  </span><br><span class="line"></span><br><span class="line">//上传up/ 到onedrive /<span class="built_in">test</span>/  </span><br><span class="line">php one.php upload:file up/ /<span class="built_in">test</span>/</span><br></pre></td></tr></table></figure></p>
+<p>参考文档：<a href="https://github.com/donwa/oneindex" target="_blank" rel="noopener">https://github.com/donwa/oneindex</a></p>
 
       
     </div>
@@ -517,9 +498,7 @@
       
         <div class="post-tags">
           
-            <a href="/tags/DigitalOcean/" rel="tag"><i class="fa fa-tag"></i> DigitalOcean</a>
-          
-            <a href="/tags/ssr/" rel="tag"><i class="fa fa-tag"></i> ssr</a>
+            <a href="/tags/教程/" rel="tag"><i class="fa fa-tag"></i> 教程</a>
           
         </div>
       
@@ -532,8 +511,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/learnPC-主板.html" rel="next" title="了解电脑硬件-主板">
-                <i class="fa fa-chevron-left"></i> 了解电脑硬件-主板
+              <a href="/list32.html" rel="next" title="安卓刷机神器TWRP">
+                <i class="fa fa-chevron-left"></i> 安卓刷机神器TWRP
               </a>
             
           </div>
@@ -542,8 +521,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/DigitalOcean优惠券.html" rel="prev" title="DigitalOCean使用Github教育包优惠券方法">
-                DigitalOCean使用Github教育包优惠券方法 <i class="fa fa-chevron-right"></i>
+              <a href="/list34.html" rel="prev" title="Android 刷Gapps跳过开机引导">
+                Android 刷Gapps跳过开机引导 <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -714,7 +693,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#注册账号"><span class="nav-number">1.</span> <span class="nav-text">注册账号</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#邮箱验证"><span class="nav-number">2.</span> <span class="nav-text">邮箱验证</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#支付方式验证"><span class="nav-number">3.</span> <span class="nav-text">支付方式验证</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#创建主机"><span class="nav-number">4.</span> <span class="nav-text">创建主机</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#主控台简介"><span class="nav-number">5.</span> <span class="nav-text">主控台简介</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#ssr搭建"><span class="nav-number">6.</span> <span class="nav-text">ssr搭建</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#谷歌BBR加速"><span class="nav-number">7.</span> <span class="nav-text">谷歌BBR加速</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#SSR软件"><span class="nav-number">8.</span> <span class="nav-text">SSR软件</span></a></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#功能"><span class="nav-number">1.</span> <span class="nav-text">功能</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#准备"><span class="nav-number">2.</span> <span class="nav-text">准备</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#安装"><span class="nav-number">3.</span> <span class="nav-text">安装</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#特殊文件实现功能"><span class="nav-number">4.</span> <span class="nav-text">特殊文件实现功能</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#命令行功能"><span class="nav-number">5.</span> <span class="nav-text">命令行功能</span></a></li></ol></div>
             
 
           </div>
