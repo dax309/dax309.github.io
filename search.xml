@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2018-hello-world.html</url>
-    <content type="text"><![CDATA[本文为笔者测试专用，并无其他用处。 一级标题二级标题1$ 文本输入测试 More info: 测试 参考： tags: 软件破解categories: 教程]]></content>
-  </entry>
-  <entry>
     <title><![CDATA[Android 刷Gapps跳过开机引导]]></title>
     <url>%2Flist34.html</url>
     <content type="text"><![CDATA[断网这个Gapps的开机引导是需要连网进行的，默认的情况下如果不连网的情况下是会自动跳过的。但是许多系统在默认情况下Wifi和数据是会自动打开，就算把卡取了，也还会有Wifi，一样无法跳过。对此，可选择先不刷Gapps，进入系统后将Wifi的数据关闭，再刷Gapps，此方法有一定弊端，有可能会导致Gapps某些应用发生某些玄学问题。。。。。 顺时针点屏幕四角这可能是最玄学的一个方法了，据传连点屏幕四角就可跳过此引导（顺时针方向，从左上角开始）。但是！！！但是！！！时灵时不灵。。。。。 更改USER_SETUP_COMPLETE和DEVICE_PROVISIONED在开机情况下，将手机连上电脑，使用adb工具来修改USER_SETUP_COMPLETE和DEVICE_PROVISIONED的值。具体操作如下：1.打开命令行。2.在WINDOWS下，如果未将adb.exe文件所在路径添加至环境变量中，则需要在adb.exe文件所在目录下打开命令行，而后将命令中的adb更改为adb.exe。3.输入命令12adb shell settings put secure user_setup_complete 1adb shell settings put global device_provisioned 1 重启，搞定。 注意！上述命令运行错误时会有提示，而成功则没有！]]></content>
@@ -378,5 +373,10 @@
       <tags>
         <tag>软件破解</tag>
       </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018-hello-world.html</url>
+    <content type="text"><![CDATA[本文为笔者测试专用，并无其他用处。 一级标题二级标题1$ 文本输入测试 More info: 测试 参考： tags: 软件破解categories: 教程]]></content>
   </entry>
 </search>
