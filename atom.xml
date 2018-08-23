@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://dax309.club/"/>
-  <updated>2018-08-15T01:38:46.920Z</updated>
+  <updated>2018-08-23T03:17:31.592Z</updated>
   <id>http://dax309.club/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微信开启网赚新方法！小号挂机在线托管</title>
+    <link href="http://dax309.club/list35.html"/>
+    <id>http://dax309.club/list35.html</id>
+    <published>2018-08-23T03:02:42.000Z</published>
+    <updated>2018-08-23T03:17:31.592Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;font color=&quot;#FF0000&quot;&gt;微信挂机还是有一定的风险的，如果出现封号冻结情况和本博无关。请大家知晓！&lt;/font&gt;&lt;br&gt;在我们的朋友圈经常看见帮自家孩子投个票、帮某员工投个票！网络上的微信投票的价格2毛，5毛，1元不等。所以网络催生了许多微信投票的团体。&lt;/p&gt;
+&lt;p&gt;&lt;font size=&quot;5&quot;&gt;注册账号&lt;/font&gt;&lt;br&gt;注册地址：&lt;a href=&quot;http://z.weiwee.com/Register.aspx?inviter=dax&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://z.weiwee.com/Register.aspx?inviter=dax&lt;/a&gt;&lt;br&gt;提醒只有通过邀请链接 才能注册。&lt;br&gt;官方承诺：&lt;/p&gt;
+&lt;p&gt;&lt;font color=&quot;#FF0000&quot;&gt;您的小号仅用于网赚，如：刷阅读，刷公众号关注等，绝不从事任何非法活动。&lt;/font&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="微信" scheme="http://dax309.club/tags/%E5%BE%AE%E4%BF%A1/"/>
+    
+      <category term="网赚" scheme="http://dax309.club/tags/%E7%BD%91%E8%B5%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>Android 刷Gapps跳过开机引导</title>
@@ -447,28 +469,6 @@
       <category term="ssr" scheme="http://dax309.club/tags/ssr/"/>
     
       <category term="科学上网" scheme="http://dax309.club/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>DigitalOCean使用Github教育包优惠券方法</title>
-    <link href="http://dax309.club/DigitalOcean%E4%BC%98%E6%83%A0%E5%88%B8.html"/>
-    <id>http://dax309.club/DigitalOcean优惠券.html</id>
-    <published>2018-08-06T05:50:15.000Z</published>
-    <updated>2018-08-06T06:15:41.394Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;有好多朋友都遇到了这样的问题，即：通过别人的邀请链接，当自己在输入github的学生优惠码的时候却提示不可以用。&lt;/p&gt;
-&lt;p&gt;原因是digitalocean网站限制了优惠次数，也就是说不管你通过什么样方式获得优惠，只能优惠一次，所以学生码不管用了。&lt;/p&gt;
-&lt;p&gt;这个时候大家可以在网站的support里提交一个ticket，也就是给客服发个邮件说明情况，客服一般会帮你手动添加的。鉴于每一封邮件往来时间需要一天，所以在发ticket的时候就把你的github学生优惠码贴上。&lt;br&gt;1.进入网站点击support&lt;br&gt;&lt;img src=&quot;/images/ssr/14.png&quot;&gt;&lt;br&gt;
-    
-    </summary>
-    
-      <category term="教程" scheme="http://dax309.club/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="DigitalOcean" scheme="http://dax309.club/tags/DigitalOcean/"/>
     
   </entry>
   

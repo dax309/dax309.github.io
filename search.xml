@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[微信开启网赚新方法！小号挂机在线托管]]></title>
+    <url>%2Flist35.html</url>
+    <content type="text"><![CDATA[微信挂机还是有一定的风险的，如果出现封号冻结情况和本博无关。请大家知晓！在我们的朋友圈经常看见帮自家孩子投个票、帮某员工投个票！网络上的微信投票的价格2毛，5毛，1元不等。所以网络催生了许多微信投票的团体。 注册账号注册地址：http://z.weiwee.com/Register.aspx?inviter=dax提醒只有通过邀请链接 才能注册。官方承诺： 您的小号仅用于网赚，如：刷阅读，刷公众号关注等，绝不从事任何非法活动。 开始挂机使用微信扫码（挂机网站提供）登录，然后就开始了自动挂机。 目前一个微信日收入大概1元左右，一个账号可以挂机多个微信！！ 停止挂机直接在微信上点击 【退出 Windows 微信】即可！！！ 关于提现微投这个网站支持直接提现到支付宝账号。 填写支付宝账号和姓名，提交提现后，秒到账！！ 关于下线目前网站必须邀请注册，如果你成功邀请下线，那么可以提成下线的 10%！！ 如果你邀请下线成为有效会员的个数超过50人，辣么你可以申请 超级会员！！ 超级会员可以获取多级下线的 5% ！！ 有效会员成功托管小号到平台，并已完成至少1次提现的会员为有效会员。]]></content>
+      <tags>
+        <tag>微信</tag>
+        <tag>网赚</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Android 刷Gapps跳过开机引导]]></title>
     <url>%2Flist34.html</url>
     <content type="text"><![CDATA[断网这个Gapps的开机引导是需要连网进行的，默认的情况下如果不连网的情况下是会自动跳过的。但是许多系统在默认情况下Wifi和数据是会自动打开，就算把卡取了，也还会有Wifi，一样无法跳过。对此，可选择先不刷Gapps，进入系统后将Wifi的数据关闭，再刷Gapps，此方法有一定弊端，有可能会导致Gapps某些应用发生某些玄学问题。。。。。 顺时针点屏幕四角这可能是最玄学的一个方法了，据传连点屏幕四角就可跳过此引导（顺时针方向，从左上角开始）。但是！！！但是！！！时灵时不灵。。。。。 更改USER_SETUP_COMPLETE和DEVICE_PROVISIONED在开机情况下，将手机连上电脑，使用adb工具来修改USER_SETUP_COMPLETE和DEVICE_PROVISIONED的值。具体操作如下：1.打开命令行。2.在WINDOWS下，如果未将adb.exe文件所在路径添加至环境变量中，则需要在adb.exe文件所在目录下打开命令行，而后将命令中的adb更改为adb.exe。3.输入命令12adb shell settings put secure user_setup_complete 1adb shell settings put global device_provisioned 1 重启，搞定。 注意！上述命令运行错误时会有提示，而成功则没有！]]></content>
