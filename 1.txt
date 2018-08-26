@@ -50,6 +50,7 @@ list31.html
 list32.html
 list33.html
 list34.html
+list35.html
 Onedrive申请.html
 page/2/index.html
 page/3/index.html
@@ -81,9 +82,11 @@ tags/Windows/index.html
 tags/分享/index.html
 tags/刷机/index.html
 tags/安卓/index.html
+tags/微信/index.html
 tags/教程/index.html
 tags/格式工厂/index.html
 tags/科学上网/index.html
+tags/网赚/index.html
 tags/谷歌安装器/index.html
 tags/软件推荐/index.html
 tags/软件破解/index.html
